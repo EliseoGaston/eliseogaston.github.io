@@ -36,21 +36,39 @@ about_content: |
 
 content:
   - title: Skills
-    layout: text
-    content: | 
+    layout: list
+    content:
+      - layout: top-center
+        title: Hexacta
+        sub_title: Senior Site Reliablity Engineer
+        caption: August 2015 - Present
+        description: | 
+          #### Cloud Providers
           - AWS, Azure, GCP
+          #### Monitoring:
           - Prometheus Grafana Loki
+          #### Observability:
           - New Relic, Datadog, Splunk
+          #### Containerization:
           - Docker, Compose, ECS, ACA
+          #### Orquestation:
           - Kubernetes, EKS, AKS, GKE
+          #### Package Management:
           - Helm, Kustomize
+          #### GitOps:
           - ArgoCD, Tekton
+          #### VCS & CI/CD:
           - Gitlab, Github, Azure DevOps, Jenkins
+          #### Infastructure as Code: 
           - Terraform, Pulumi
+          #### Configuration as Code:
           - Ansible, SaltStack
-          - .NET, Java, Golang, Python
-          - Git, Scrum, Kanban, Agile
+          #### Programmin Languaje:
+          - NET, Java, Golang, Python
+          #### Databases:
           - SQLs, MongoDB, Redis, Cassandra, DynamoDB
+          #### Methodologies:
+          - Git, Scrum, Kanban, Agile
 
   - title: Experience
     layout: list
