@@ -39,33 +39,54 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Technologies
-        description: | 
-            **Cloud Providers**: AWS, Azure, GCP
+        title: **Cloud Providers** AWS, Azure, GCP 
+        description:
+      - layout: top-middle
+        title: **Cloud Providers** AWS, Azure, GCP 
+        description:
+      - layout: top-middle
+        title: **Monitoring**: Prometheus Grafana Loki 
+        description:
+      - layout: top-middle
+        title: **Observability**: New Relic, Datadog, Splunk 
+        description:
+      - layout: top-middle
+        title: **Containerization**: Docker, Compose, ECS, ACA 
+        description: 
+      - layout: top-middle
+        title: **Orquestation**: Kubernetes, EKS, AKS, GKE 
+        description: 
+      - layout: top-middle
+        title: **Package Management**: Helm, Kustomize
+        description: 
+      - layout: top-middle
+        title: **GitOps**: ArgoCD, Tekton 
+        description: 
+
             
-            **Monitoring**: Prometheus Grafana Loki
             
-            **Observability**: New Relic, Datadog, Splunk
             
-            **Containerization**: Docker, Compose, ECS, ACA
             
-            **Orquestation**: Kubernetes, EKS, AKS, GKE
             
-            **Package Management**: Helm, Kustomize
             
-            **GitOps**: ArgoCD, Tekton
             
-            **VCS & CI/CD**: Gitlab, Github, Azure DevOps, Jenkins
             
-            **Infastructure as Code**: Terraform, Pulumi
             
-            **Configuration as Code**: Ansible, SaltStack
             
-            **Programmin Languaje**: NET, Java, Golang, Python
             
-            **Databases**: SQLs, MongoDB, Redis, Cassandra, DynamoDB
+            # *
             
-            **Methodologies**: Git, Scrum, Kanban, Agile
+            # **VCS & CI/CD**: Gitlab, Github, Azure DevOps, Jenkins
+            
+            # **Infastructure as Code**: Terraform, Pulumi
+            
+            # **Configuration as Code**: Ansible, SaltStack
+            
+            # **Programmin Languaje**: NET, Java, Golang, Python
+            
+            # **Databases**: SQLs, MongoDB, Redis, Cassandra, DynamoDB
+            
+            # **Methodologies**: Git, Scrum, Kanban, Agile
 
   - title: Experience
     layout: list
