@@ -39,38 +39,44 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Cloud Providers  AWS, Azure, GCP 
+        title: AWS, Azure, GCP 
         description:
       - layout: top-middle
-        title: Monitoring Prometheus Grafana Loki 
+        title: Prometheus Grafana Loki 
+        description: Prometheus Grafana Loki
+      - layout: top-middle
+        title: New Relic, Datadog, Splunk 
         description:
       - layout: top-middle
-        title: Observability New Relic, Datadog, Splunk 
-        description:
-      - layout: top-middle
-        title: Containerization Docker, Compose, ECS, ACA 
+        title: Docker, Compose, ECS, ACA 
         description: 
       - layout: top-middle
-        title: Orquestation Kubernetes, EKS, AKS, GKE 
+        title: Kubernetes, EKS, AKS, GKE 
         description: 
       - layout: top-middle
-        title: Package Management Helm, Kustomize
+        title: Helm, Kustomize
         description: 
       - layout: top-middle
         title: GitOps ArgoCD, Tekton 
         description: 
-
-            # VCS & CI/CD Gitlab, Github, Azure DevOps, Jenkins
-            
-            # Infastructure as Code Terraform, Pulumi
-            
-            # Configuration as Code Ansible, SaltStack
-            
-            # Programmin Languaje NET, Java, Golang, Python
-            
-            # Databases SQLs, MongoDB, Redis, Cassandra, DynamoDB
-            
-            # Methodologies Git, Scrum, Kanban, Agile
+      - layout: top-middle
+        title: Gitlab, Github, Azure DevOps, Jenkins
+        description: 
+      - layout: top-middle
+        title: Terraform, Pulumi 
+        description: 
+      - layout: top-middle
+        title: Ansible, SaltStack 
+        description: 
+      - layout: top-middle
+        title: NET, Java, Golang, Python 
+        description: 
+      - layout: top-middle
+        title: SQLs, MongoDB, Redis, Cassandra, DynamoDB 
+        description: 
+      - layout: top-middle
+        title: Git, Scrum, Kanban, Agile 
+        description: 
 
   - title: Experience
     layout: list
