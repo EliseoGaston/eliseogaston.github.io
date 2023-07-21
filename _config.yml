@@ -36,7 +36,7 @@ about_content: |
 
 content:
   - title: Skills
-    layout: text
+    layout: list
     content:
       - layout: top-middle
         description: | 
