@@ -39,6 +39,7 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: Technologies
         description: | 
             **Cloud Providers**: AWS, Azure, GCP
             
