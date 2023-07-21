@@ -11,32 +11,11 @@ title: Senior Site Reliability Engineer
 email: liseu.90@hotmail.com
 # website: www.github.com/sproogen/resume-theme
 
-# Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-# twitter_username: facespics
 github_username:  eliseogaston
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: eliseogastonlopezariza
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -47,7 +26,7 @@ linkedin_username: eliseogastonlopezariza
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   I am a Senior Site Reliability Engineer with more than +10 years of experience on Software Development using stacks like .NET, Java, Python and GoLang.
   As a Technical Lead & Solutions Architect, for small and big teams, I help them designing micro-services and complex HA systems that will fit the customers need.
   
@@ -56,37 +35,45 @@ about_content: | # this will include new lines to allow paragraphs
   Passionate about security, performance , automation and observability.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Skills
+    layout: text
+    content: | 
+          - AWS, Azure, GCP
+          - Prometheus Grafana Loki
+          - New Relic, Datadog, Splunk
+          - Docker, Compose, ECS, ACA
+          - Kubernetes, EKS, AKS, GKE
+          - Helm, Kustomize
+          - ArgoCD, Tekton
+          - Gitlab, Github, Azure DevOps, Jenkins
+          - Terraform, Pulumi
+          - Ansible, SaltStack
+          - .NET, Java, Golang, Python
+          - Git, Scrum, Kanban, Agile
+          - SQLs, MongoDB, Redis, Cassandra, DynamoDB
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Hexacta
-        # link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Senior Site Reliablity Engineer
         caption: August 2015 - Present
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description: | 
+                - Lead of Platform Team across many development teams and customers
+                - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance to all the customers
+                - Design and architect micro-services and complex systems
+                - DevOps and DevSecOps
+                - Lead and organize multiple teams
+                - Design and discuss business analysis with clients
+                - Coordinated efficient large-scale software deployments.
+                - Collaborated with team to analyze system solutions based on client requirements.
+      
+      - layout: left
+        title: Marqeta
+        sub_title: Senior Software Engineering (Consultant)
+        caption: April 2022 - December 2022
+        description: |
                 - Lead of Platform Team across many development teams and customers
                 - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance to all the customers
                 - Design and architect micro-services and complex systems
@@ -96,36 +83,57 @@ content:
                 - Coordinated efficient large-scale software deployments.
                 - Collaborated with team to analyze system solutions based on client requirements.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+      - layout: left
+        title: Leonardo247
+        sub_title: Senior DevOps Engineer (Consultant)
+        caption: April 2022 - December 2022
+        description: | 
+                - Skilled at working independently and collaboratively in a team environment.
+                - Design new infrastructure on AWS EKS,
+                - Infrastructure as Code using Terraform and Ansible.
+                - Design security and scalability for development team to access resources.
+                - Implement, Design and Review SOC 2 security compliance
+                - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
+                - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
+      
+      - layout: left
+        title: Plus Sistemas S.A
+        sub_title: Intermediate .NET Developer
+        caption: May 2013 - July 2015
+        description: | 
+                - Troubleshot and resolved performance issues for databases and software.
+                - Analyzed, evaluated and developed new web and database applications.
+                - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
+                - Monitored database performance to keep workflows running smoothly.
+
+      - layout: left
+        title: Ministerio Salud Provincia de Buenos Aires
+        sub_title: Database Administrator
+        caption: September 2011 - March 2013
+        description: | 
+                - Administered, supported, and monitored databases by proactively resolving database issues and maintaining servers.
+                - Developed and updated databases to handle customer data.
+                - Worked with staff to develop and implement procedures to prevent data loss and maximize system availability.
+                - Developed scripts and processes for data integration and maintenance.
+                - Created and updated database designs and data models.
+
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Universidad Nacional La Plata
         caption: 2009 - 2016
         sub_title: BSc Computer Science
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | 
             During my time at university I learnt most of my key skills that have I have taken through my career such as teamwork collaboration and working to tight deadlines on Agile environments.
             
             I owned a master in HA and Grid Scalable System Designs and Cloud Distributed Architectures.
             
             I had lot of experience at that time with Cloud and HA designs
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
-  #     - Gaming
-  #     - Knitting
-  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-  #     Look at this cool image  
-  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Contact Me!
 
 # Build settings
 remote_theme: sproogen/resume-theme
