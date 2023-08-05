@@ -18,8 +18,11 @@ github_username:  eliseogaston
 linkedin_username: eliseogastonlopezariza
 additional_links:
 - title: Book Time with Me!
-  icon: fa-calendar-days
+  icon: fa fa-calendar
   url: https://calendly.com/eliseogaston/book-me
+- title: Email Me!
+  icon: fa fa-envelop
+  url: mailto:liseu.90@hotmail.com
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
