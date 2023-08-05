@@ -16,6 +16,10 @@ darkmode: true
 # Social links
 github_username:  eliseogaston
 linkedin_username: eliseogastonlopezariza
+additional_links:
+- title: Book Time with Me!
+  icon: fa-calendar
+  url: https://calendly.com/eliseogaston/book-me
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
