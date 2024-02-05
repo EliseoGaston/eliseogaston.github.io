@@ -42,23 +42,25 @@ content:
   - title: Skills
     layout: text
     content: | 
-        **Cloud Providers**:  AWS, Azure, GCP
+        **Cloud Providers**:  AWS, Azure, GCP, Openshift
             
-        **Monitoring**:  Prometheus Grafana Loki
+        **Monitoring**:  Prometheus, Grafana, Loki, FluentD, FluentBit, Azure Application Insights
             
-        **Observability**:  New Relic, Datadog, Splunk
+        **Observability**:  Datadog, New Relic, AWS CloudWatch
+
+        **FinOps**: Terracost, Kubecost, CloudZero, Datadog, AWS Cost Management, Azure Cost Explorer
             
-        **Containerization**:  Docker, Compose, ECS, ACA
+        **Containerization**:  Vagrant, Docker, COntainerD, LXC/LXD, BuildKit, Kaniko, Podman
         
-        **Orquestation**:  Kubernetes, EKS, AKS, GKE
+        **Orquestation**:  Kubernetes, EKS, AKS, GKE, Docker Swarm, Docker Compose
         
         **Package Management**:  Helm, Kustomize
         
-        **GitOps**:  ArgoCD, Tekton
+        **GitOps**:  ArgoCD, Tekton, Flux, Jenkins-x
         
-        **VCS & CI/CD**:  Gitlab, Github, Azure DevOps, Jenkins
+        **VCS**:  Gitlab, Github, Azure DevOps
         
-        **Infastructure as Code**:  Terraform, Pulumi
+        **Infastructure as Code**:  Terraform, Pulumi, Crossplane, AWS CDK, Azure ARM Templates
         
         **Configuration as Code**:  Ansible, SaltStack
         
@@ -66,43 +68,53 @@ content:
         
         **Databases**:  SQLs, MongoDB, Redis, Cassandra, DynamoDB
             
-        **Methodologies**:  Git, Scrum, Kanban, Agile
+        **Methodologies**:  Git, Scrum, Kanban, SaFE
+
+        **Shifts**: PagerDuty, AlertManager, Jira Incident Management Suite
 
   - title: Experience
     layout: list
     content:
+      #- layout: left
+      #  title: Svitla / Gilbarco Veeder-Root
+      #  sub_title: Lead Platform Engineer
+      #  caption: September 2023 - Present
+      #  description: | 
+      #          - Responsible for the health, cost and wellness of infrastructure across the world.
+      #          - IaC and CaC through gitops principles using terraform, ansible and aws cdk
+      #          - Github Workflows for CICD
+      #          - Event System Architectures using Kafka and EventService Hub
+      #          - AWS muti account & multi region control.
+      #          - Review and mantain IoT microservices with high availability and low latency
+      #          - Plan, Design and Implement business and development architecture needs with Cloud Ops High standards
+                
       - layout: left
-        title: Hexacta
-        sub_title: Senior Site Reliablity Engineer
-        caption: August 2015 - Present
+        title: GlobalLogic 
+        sub_title: Lead Platform Engineer
+        caption: January 2023 - Present
         description: | 
-                - Lead of Platform Team across many development teams and customers
-                - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance to all the customers
+                - Lead of Platform Engineer Team which standarize more than 30+ customers' teams
+                - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
                 - Design and architect micro-services and complex systems
-                - DevOps and DevSecOps
-                - Lead and organize multiple teams
-                - Design and discuss business analysis with clients
-                - Coordinated efficient large-scale software deployments.
-                - Collaborated with team to analyze system solutions based on client requirements.
+                - Follow requirements,metrics and feedback from customers to get that improvement area retrofit.
+                - Coordinated efficient large-scale software deployments and architecture for IoT, Healthcare and PCI environments.
+                - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business.
       
       - layout: left
-        title: Marqeta
-        sub_title: Senior Software Engineering (Consultant)
+        title: Taller Technologies / Marqeta
+        sub_title: Senior Staff Engineer
         caption: April 2022 - December 2022
         description: |
-                - Lead of Platform Team across many development teams and customers
-                - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance to all the customers
-                - Design and architect micro-services and complex systems
-                - DevOps and DevSecOps
-                - Lead and organize multiple teams
-                - Design and discuss business analysis with clients
-                - Coordinated efficient large-scale software deployments.
-                - Collaborated with team to analyze system solutions based on client requirements.
+                - Implement CI/CD pipelines to automate provisioning of accounts
+                - Implement OCTA worflows for users creation provition
+                - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
+                - Implement Observability and Monitoring on Serverless architecture
+                - Reveal and Retrofit business needs for tracking business value.
 
       - layout: left
-        title: Leonardo247
-        sub_title: Senior DevOps Engineer (Consultant)
-        caption: April 2022 - December 2022
+        title: TechGenies / Leonardo247
+        sub_title: Sr DevOps Engineer
+        caption: April 2021 - April 2022
         description: | 
                 - Skilled at working independently and collaboratively in a team environment.
                 - Design new infrastructure on AWS EKS,
@@ -111,10 +123,51 @@ content:
                 - Implement, Design and Review SOC 2 security compliance
                 - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
                 - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
+
+      - layout: left
+        title: Hexacta / Becton & Dickinson 
+        sub_title: Senior Software Engineer
+        caption: December 2020 - April 2021
+        description: |
+                - Observe, Analyze and Review Infrastructure and Application for cost effective solutions.
+                - Design, Create and Implement 3-parties integrations with platform.
+                - Monitoring, Design and Review DBs and transactional health during activity
+                - Redesign DB schemas and operations through distributed events for better performance.
+                - Create and Mantain Infrastructure cost, monitoring and solutions
+                
+      - layout: left
+        title: Hexacta / Walkers
+        sub_title: Principal Software Engineer
+        caption: August 2019 - December 2020
+        description: | 
+                - Migration of old .NET 2 and ASP applications to .NET CORE and Web Technologies
+                - Design, Create and Implement a new Standalone frontend architecture using angular
+                - Split into Microservices and background jobs old .NET monolithic to be used for frontend
+                - Redesign DB schemas and operations through event hubs
+      
+      - layout: left
+        title: Hexacta / Coalfire
+        sub_title: Senior Software Engineer
+        caption: August 2016 - August 2019
+        description: |
+                - Backend API development with .NET and Java
+                - Retrieve business values and requirements from stackeholders and customers
+                - Performance testing and monitoring for backend applications performance
+                - SQL and NOSQL such as mongodb for event system arcitecture.
+                - Migration from Monolith to Microservice architecture using AWS EKS for orqestation
+
+      - layout: left
+        title: Hexacta / SanCor
+        sub_title: .NET Software Engineer
+        caption: August 2015 - April 2016
+        description: | 
+                - Refresh old intranet site to a public hosted domain web application for commerce
+                - Design ServiceBus integration systems for high availability and reliability transaccional environment
+                - Analyse and Optimize DB operations for low timing responses
       
       - layout: left
         title: Plus Sistemas S.A
-        sub_title: Intermediate .NET Developer
+        sub_title: .NET Software Engineer
         caption: May 2013 - July 2015
         description: | 
                 - Troubleshot and resolved performance issues for databases and software.
