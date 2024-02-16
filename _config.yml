@@ -99,6 +99,11 @@ content:
                 - Follow requirements,metrics and feedback from customers to get that improvement area retrofit.
                 - Coordinated efficient large-scale software deployments and architecture for IoT, Healthcare and PCI environments.
                 - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business.
+                ..
+                **Tech Stack**
+                [<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=AWS">](<LINK>)
+                [<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=AZURE">](<LINK>)
+
       
       - layout: left
         title: Taller Technologies / Marqeta
