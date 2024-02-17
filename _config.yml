@@ -99,7 +99,7 @@ content:
                 - Follow requirements,metrics and feedback from customers to get that improvement area retrofit.
                 - Coordinated efficient large-scale software deployments and architecture for IoT, Healthcare and PCI environments.
                 - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business.  
-                </br>      
+                        
                 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
                 ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=plastic&logo=octopusdeploy&logoColor=white)
                 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
@@ -132,7 +132,19 @@ content:
                 - Implement OCTA worflows for users creation provition
                 - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
                 - Implement Observability and Monitoring on Serverless architecture
-                - Reveal and Retrofit business needs for tracking business value.
+                - Reveal and Retrofit business needs for tracking business value.  
+
+                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+                ![OKTA](https://img.shields.io/badge/OKTA-%23FF9900.svg?style=plastic&logo=okta&logoColor=white)
+                ![awslmabdas](https://img.shields.io/badge/AWS_Lambdas-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
+                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+                ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+                ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+                ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+                ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+                ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+                ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
 
       - layout: left
         title: TechGenies / Leonardo247
