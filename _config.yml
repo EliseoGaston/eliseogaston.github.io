@@ -15,7 +15,7 @@ darkmode: true
 
 # plastic links
 github_username:  eliseogaston
-linkedin_username: eliseogastonlopezariza
+linkedin_username: eliseogaston
 additional_links:
 - title: Book Time with Me!
   icon: fa fa-calendar
@@ -121,7 +121,21 @@ content:
                 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=plastic&logo=neovim&logoColor=white)
                 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
                 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-
+                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
+                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
+                ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
+                ![Pulumi](https://img.shields.io/badge/Pulumi-orange.svg?style=plastic&logo=pulumi&logoColor=yellow&color=black)
+                ![Argo CD](https://img.shields.io/badge/Argo_CD-white.svg?style=plastic&logo=argo&logoColor=orange&color=white)
+                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
+                ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
+                ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
+                ![New Relic](https://img.shields.io/badge/New_Relic-black.svg?style=plastic&logo=new%20relic&logoColor=lightgreen&color=darkblue)
+                ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
+                ![FLuentD](https://img.shields.io/badge/FluentD-black.svg?style=plastic&logo=fluentd&logoColor=blue&color=black)
+                ![Podman](https://img.shields.io/badge/Podman-white.svg?style=plastic&logo=podman&logoColor=red&color=white)
+                ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
+                ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
+                ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)
       
       - layout: left
         title: Taller Technologies / Marqeta
