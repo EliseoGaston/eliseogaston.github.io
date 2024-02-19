@@ -109,6 +109,8 @@ content:
                 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
                 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
                 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
+                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
+                ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
                 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white)
                 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
                 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white)
@@ -116,7 +118,6 @@ content:
                 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
                 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
                 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
-                ![Kafka](https://img.shields.io/badge/Apache_Kafka-black.svg?style=plastic&logo=apachekafka&logoColor=orange)
                 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
                 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
                 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=plastic&logo=neovim&logoColor=white)
@@ -126,6 +127,7 @@ content:
                 ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
                 ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
                 ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
+                ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
                 ![Pulumi](https://img.shields.io/badge/Pulumi-orange.svg?style=plastic&logo=pulumi&logoColor=yellow&color=black)
                 ![Argo CD](https://img.shields.io/badge/Argo_CD-white.svg?style=plastic&logo=argo&logoColor=orange&color=white)
                 ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
@@ -169,7 +171,7 @@ content:
                 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
                 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
                 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-                ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+                ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
 
       - layout: left
         title: TechGenies / Leonardo247
@@ -196,6 +198,7 @@ content:
                 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
                 ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
                 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+                ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
                 
       - layout: left
         title: Hexacta / Becton & Dickinson 
@@ -208,11 +211,14 @@ content:
                 - Redesign DB schemas and operations through distributed events for better performance.
                 - Create and Mantain Infrastructure cost, monitoring and solutions  
 
+                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
+                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
                 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens
+                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
                 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
                 ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
-                
+                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
+                ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
                 
       - layout: left
         title: Hexacta / Walkers
@@ -226,8 +232,8 @@ content:
 
                 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
                 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-                ![Kafka](https://img.shields.io/badge/Apache_Kafka-black.svg?style=plastic&logo=apachekafka&logoColor=orange)
                 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+                ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
       
       - layout: left
         title: Hexacta / Coalfire
@@ -238,7 +244,28 @@ content:
                 - Retrieve business values and requirements from stackeholders and customers
                 - Performance testing and monitoring for backend applications performance
                 - SQL and NOSQL such as mongodb for event system arcitecture.
-                - Migration from Monolith to Microservice architecture using AWS EKS for orqestation
+                - Migration from Monolith to Microservice architecture using AWS EKS for orqestation  
+                  
+                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+                ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=plastic&logo=octopusdeploy&logoColor=white)
+                ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+                ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+                ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
+                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+                ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+                ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
+                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
+                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
+                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
+                ![New Relic](https://img.shields.io/badge/New_Relic-black.svg?style=plastic&logo=new%20relic&logoColor=lightgreen&color=darkblue)
+                ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
+                ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
+                ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+                ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+
 
       - layout: left
         title: Hexacta / SanCor
@@ -248,6 +275,11 @@ content:
                 - Refresh old intranet site to a public hosted domain web application for commerce
                 - Design ServiceBus integration systems for high availability and reliability transaccional environment
                 - Analyse and Optimize DB operations for low timing responses
+
+                ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
+                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
       
       - layout: left
         title: Plus Sistemas S.A
@@ -259,6 +291,11 @@ content:
                 - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
                 - Monitored database performance to keep workflows running smoothly.
 
+                ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
+                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
       - layout: left
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
@@ -269,6 +306,10 @@ content:
                 - Worked with staff to develop and implement procedures to prevent data loss and maximize system availability.
                 - Developed scripts and processes for data integration and maintenance.
                 - Created and updated database designs and data models.
+
+              ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+              ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
+              ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 
   - title: Education
     layout: list
