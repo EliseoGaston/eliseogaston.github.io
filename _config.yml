@@ -172,7 +172,7 @@ content:
                 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
                 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
                 ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
-
+        
       - layout: left
         title: TechGenies / Leonardo247
         sub_title: Sr DevOps Engineer
@@ -266,7 +266,6 @@ content:
                 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
                 ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
 
-
       - layout: left
         title: Hexacta / SanCor
         sub_title: .NET Software Engineer
@@ -274,8 +273,8 @@ content:
         description: | 
                 - Refresh old intranet site to a public hosted domain web application for commerce
                 - Design ServiceBus integration systems for high availability and reliability transaccional environment
-                - Analyse and Optimize DB operations for low timing responses
-
+                - Analyse and Optimize DB operations for low timing responses  
+                 
                 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
                 ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
                 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
@@ -289,8 +288,8 @@ content:
                 - Troubleshot and resolved performance issues for databases and software.
                 - Analyzed, evaluated and developed new web and database applications.
                 - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
-                - Monitored database performance to keep workflows running smoothly.
-
+                - Monitored database performance to keep workflows running smoothly.  
+                 
                 ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
                 ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
                 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
@@ -305,11 +304,11 @@ content:
                 - Developed and updated databases to handle customer data.
                 - Worked with staff to develop and implement procedures to prevent data loss and maximize system availability.
                 - Developed scripts and processes for data integration and maintenance.
-                - Created and updated database designs and data models.
-
-              ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-              ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
-              ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+                - Created and updated database designs and data models.  
+               
+                ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
+                ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 
   - title: Education
     layout: list
