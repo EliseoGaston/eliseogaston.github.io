@@ -183,12 +183,12 @@ content:
                 - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
                 - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
 
-                ![AWS](https://img.shields.io/badge/AWS-%230A0FFF.svg?style=plastic&logo=amazon-aws&logoColor=white)
+                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
                 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
                 ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
                 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white
-                ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
+                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
+                ![Grafana](https://img.shields.io/badge/Grafana-white.svg?style=plastic&logo=grafana&logoColor=orange&color=black)
                 ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
                 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
                 ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
