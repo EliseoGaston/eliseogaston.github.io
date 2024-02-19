@@ -121,6 +121,7 @@ content:
                 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=plastic&logo=neovim&logoColor=white)
                 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
                 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+                ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
                 ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
                 ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
                 ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
@@ -135,7 +136,12 @@ content:
                 ![Podman](https://img.shields.io/badge/Podman-white.svg?style=plastic&logo=podman&logoColor=red&color=white)
                 ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
                 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
-                ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)
+                ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
+                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+                ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+                ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+                ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+                ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
       
       - layout: left
         title: Taller Technologies / Marqeta
@@ -151,10 +157,14 @@ content:
                 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
                 ![OKTA](https://img.shields.io/badge/OKTA-%23FF9900.svg?style=plastic&logo=okta&logoColor=white)
                 ![awslmabdas](https://img.shields.io/badge/AWS_Lambdas-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
-                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+                ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
+                ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
+                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
                 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+                ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
                 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
                 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
                 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
                 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
                 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
@@ -173,6 +183,17 @@ content:
                 - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
                 - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
 
+                ![AWS](https://img.shields.io/badge/AWS-%230A0FFF.svg?style=plastic&logo=amazon-aws&logoColor=white)
+                ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
+                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white
+                ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
+                ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
+                ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
+                ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
+                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+                
       - layout: left
         title: Hexacta / Becton & Dickinson 
         sub_title: Senior Software Engineer
