@@ -116,6 +116,7 @@ content:
                 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
                 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
                 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+                ![Kafka](https://img.shields.io/badge/Apache_Kafka-black.svg?style=plastic&logo=apachekafka&logoColor=orange)
                 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
                 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
                 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=plastic&logo=neovim&logoColor=white)
@@ -186,6 +187,8 @@ content:
                 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
                 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
                 ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
+                ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
+                ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
                 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
                 ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
                 ![Grafana](https://img.shields.io/badge/Grafana-white.svg?style=plastic&logo=grafana&logoColor=orange&color=black)
@@ -203,7 +206,13 @@ content:
                 - Design, Create and Implement 3-parties integrations with platform.
                 - Monitoring, Design and Review DBs and transactional health during activity
                 - Redesign DB schemas and operations through distributed events for better performance.
-                - Create and Mantain Infrastructure cost, monitoring and solutions
+                - Create and Mantain Infrastructure cost, monitoring and solutions  
+
+                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens
+                ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
+                
                 
       - layout: left
         title: Hexacta / Walkers
@@ -213,7 +222,12 @@ content:
                 - Migration of old .NET 2 and ASP applications to .NET CORE and Web Technologies
                 - Design, Create and Implement a new Standalone frontend architecture using angular
                 - Split into Microservices and background jobs old .NET monolithic to be used for frontend
-                - Redesign DB schemas and operations through event hubs
+                - Redesign DB schemas and operations through event hubs  
+
+                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+                ![Kafka](https://img.shields.io/badge/Apache_Kafka-black.svg?style=plastic&logo=apachekafka&logoColor=orange)
+                ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
       
       - layout: left
         title: Hexacta / Coalfire
