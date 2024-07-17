@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Eliseo Gaston Lopez Ariza
 title: Senior Site Reliability Engineer
-email: liseu.90@hotmail.com
+# email: liseu.90@hotmail.com
 # website: www.github.com/sproogen/resume-theme
 
 darkmode: true
@@ -17,9 +17,13 @@ darkmode: true
 github_username:  eliseogaston
 linkedin_username: eliseogaston
 additional_links:
+- title: Email me!
+  icon: fa fa-envelop
+  url: mailto:liseu.90@hotmail.com
 - title: Book Time with Me!
   icon: fa fa-calendar
   url: https://calendly.com/eliseogaston/book-me
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
