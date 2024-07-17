@@ -18,8 +18,8 @@ github_username:  eliseogaston
 linkedin_username: eliseogaston
 additional_links:
 - title: Email me!
-  icon: fa fa-envelop
-  url: mailto:liseu.90@hotmail.com
+  icon: fa fa-envelope
+  mailto: liseu.90@hotmail.com
 - title: Book Time with Me!
   icon: fa fa-calendar
   url: https://calendly.com/eliseogaston/book-me
