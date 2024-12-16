@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eliseo Gaston Lopez Ariza
-title: Senior Site Reliability Engineer
+title: Lead Site Reliability Engineer
 # email: liseu.90@hotmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -20,9 +20,9 @@ additional_links:
 - title: Email me!
   icon: fa fa-envelope
   mailto: liseu.90@hotmail.com
-- title: Book Time with Me!
-  icon: fa fa-calendar
-  url: https://calendly.com/eliseogaston/book-me
+#- title: Book Time with Me!
+#  icon: fa fa-calendar
+#  url: https://calendly.com/eliseogaston/book-me
 
 
 # Google Analytics and Tag Manager
@@ -35,18 +35,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  I am a Senior Site Reliability Engineer with more than +10 years of experience on Software Development using stacks like .NET, Java, Python and GoLang.
-  As a Technical Lead & Solutions Architect, for small and big teams, I help them designing micro-services and complex HA systems that will fit the customers need.
+  I am a Lead Site Reliability Engineer with over 10 years of experience working with backend and cloud environments using technology stacks like .NET, Java and Go.
+  I work with large and small teams to design, build, manage, monitor and architect micro-services and distributed HA systems that best meet the customer's requirements.
   
-  My proficiency on Cloud Infrastructure Design Architectures, strong skills on DevOps/DevSecOps but also many years involved on every part of the Software Development Lifecycle helps me design, plan and make technical resolutions very accurate and professionally.
+  My expertise in cloud infrastructure design architectures, strong skills in DevOps/DevSecOps, and years of experience in every part of the software development lifecycle help me make every decision professionally.
   
-  Passionate about security, performance , automation and observability.
-
+  I'm most interested in security, observability, and performances. Automating all of this is my fervent interest.
 content:
   - title: Skills
     layout: text
     content: | 
-        **Cloud Providers**:  AWS, Azure, GCP, Openshift
+        **Cloud Providers**:  AWS, Azure
             
         **Monitoring**:  Prometheus, Grafana, Loki, FluentD, FluentBit, Azure Application Insights
             
@@ -64,17 +63,17 @@ content:
         
         **VCS**:  Gitlab, Github, Azure DevOps
         
-        **Infastructure as Code**:  Terraform, Pulumi, Crossplane, AWS CDK, Azure ARM Templates
+        **Infastructure as Code**:  Terraform, Pulumi, Crossplane, AWS CDK
         
         **Configuration as Code**:  Ansible, SaltStack
         
-        **Programmin Languaje**:  NET, Java, Golang, Python
+        **Programming Languaje**:  NET, Java, Golang
         
         **Databases**:  SQLs, MongoDB, Redis, Cassandra, DynamoDB
             
         **Methodologies**:  Git, Scrum, Kanban, SaFE
 
-        **Shifts**: PagerDuty, AlertManager, Jira Incident Management Suite
+        **Shifts**: PagerDuty, AlertManager, Jira Incident Management, OpsGenie
 
   - title: Experience
     layout: list
