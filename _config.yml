@@ -78,225 +78,116 @@ content:
   - title: Experience
     layout: list
     content:
-      #- layout: left
-      #  title: Svitla / Gilbarco Veeder-Root
-      #  sub_title: Lead Platform Engineer
-      #  caption: September 2023 - Present
-      #  description: | 
-      #          - Responsible for the health, cost and wellness of infrastructure across the world.
-      #          - IaC and CaC through gitops principles using terraform, ansible and aws cdk
-      #          - Github Workflows for CICD
-      #          - Event System Architectures using Kafka and EventService Hub
-      #          - AWS muti account & multi region control.
-      #          - Review and mantain IoT microservices with high availability and low latency
-      #          - Plan, Design and Implement business and development architecture needs with Cloud Ops High standards
-                
       - layout: left
         title: GlobalLogic 
         sub_title: Lead Platform Engineer
-        caption: January 2023 - Present
+        caption: September 2023 - Present (15 month)
         description: | 
-                - Lead of Platform Engineer Team which standarize more than 30+ customers' teams
-                - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
-                - Design and architect micro-services and complex systems
-                - Follow requirements,metrics and feedback from customers to get that improvement area retrofit.
-                - Coordinated efficient large-scale software deployments and architecture for IoT, Healthcare and PCI environments.
-                - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business.  
-                        
-                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-                ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-                ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-                ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-                ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-                ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-                ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white)
-                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
-                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-                ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
-                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
-                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
-                ![Argo CD](https://img.shields.io/badge/Argo_CD-white.svg?style=plastic&logo=argo&logoColor=orange&color=white)
-                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
-                ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
-                ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
-                ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
-                ![FLuentD](https://img.shields.io/badge/FluentD-black.svg?style=plastic&logo=fluentd&logoColor=blue&color=black)
-                ![Podman](https://img.shields.io/badge/Podman-white.svg?style=plastic&logo=podman&logoColor=red&color=white)
-                ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
-                ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
-                ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-                ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-                ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-                ![ML FLow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+              - Lead of Platform Engineer Team which standarize more than 30+ customers' teams
+              - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
+              - Design and architect micro-services and complex systems
+              - Follow requirements,metrics and feedback from customers to get that improvement area retrofit.
+              - Coordinated efficient large-scale software deployments and architecture for IoT, Healthcare and PCI environments.
+              - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business.  
+
+
+      - layout: left
+        title: Invenco by GVR
+        sub_title: Senior Platform Engineer
+        caption: December 2022 - September 2023 (10)
+        description: |
+              - Improve Dev experience
+              - Implement Internal Developer Portal
+              - Self provisioning Services and Infrastructure
+              - Auto-heal systems
       
       - layout: left
-        title: Taller Technologies / Marqeta
-        sub_title: Senior Staff Engineer
-        caption: April 2022 - December 2022
+        title: Marqeta
+        sub_title: Lead DevOps Engineer
+        caption: April 2022 - December 2022 (9 month)
         description: |
-                - Implement CI/CD pipelines to automate provisioning of accounts
-                - Implement OCTA worflows for users creation provition
-                - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
-                - Implement Observability and Monitoring on Serverless architecture
-                - Reveal and Retrofit business needs for tracking business value.  
-
-                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-                ![OKTA](https://img.shields.io/badge/OKTA-darkblue.svg?style=plastic&logo=okta&logoColor=white&color=darkblue)
-                ![awslmabdas](https://img.shields.io/badge/AWS_Lambdas-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
-                ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
-                ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
-                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
-                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-                ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
-                ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-                ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-                ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-                ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-                ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-                ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+              - Implement CI/CD pipelines to automate provisioning of accounts
+              - Implement OCTA worflows for users creation provition
+              - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
+              - Implement Observability and Monitoring on Serverless architecture
+              - Reveal and Retrofit business needs for tracking business value. 
         
       - layout: left
-        title: TechGenies / Leonardo247
-        sub_title: Sr DevOps Engineer
-        caption: April 2021 - April 2022
+        title: Leonardo247
+        sub_title: Lead DevOps Engineer
+        caption: April 2021 - April 2022 (12 month)
         description: | 
-                - Skilled at working independently and collaboratively in a team environment.
-                - Design new infrastructure on AWS EKS,
-                - Infrastructure as Code using Terraform and Ansible.
-                - Design security and scalability for development team to access resources.
-                - Implement, Design and Review SOC 2 security compliance
-                - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
-                - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
-
-                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-                ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
-                ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
-                ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
-                ![Grafana](https://img.shields.io/badge/Grafana-white.svg?style=plastic&logo=grafana&logoColor=orange&color=black)
-                ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
-                ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
-                ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
-                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-                ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+              - Skilled at working independently and collaboratively in a team environment.
+              - Design new infrastructure on AWS EKS,
+              - Infrastructure as Code using Terraform and Ansible.
+              - Design security and scalability for development team to access resources.
+              - Implement, Design and Review SOC 2 security compliance
+              - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
+              - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
                 
       - layout: left
-        title: Hexacta / Becton & Dickinson 
-        sub_title: Senior Software Engineer
-        caption: December 2020 - April 2021
+        title: Becton & Dickinson 
+        sub_title: Senior DevOps Engineer
+        caption: December 2019 - April 2021 (17 month)
         description: |
-                - Observe, Analyze and Review Infrastructure and Application for cost effective solutions.
-                - Design, Create and Implement 3-parties integrations with platform.
-                - Monitoring, Design and Review DBs and transactional health during activity
-                - Redesign DB schemas and operations through distributed events for better performance.
-                - Create and Mantain Infrastructure cost, monitoring and solutions  
-
-                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
-                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-                ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
-                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
-                ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
+              - Observe, Analyze and Review Infrastructure and Application for cost effective solutions.
+              - Design, Create and Implement 3-parties integrations with platform.
+              - Monitoring, Design and Review DBs and transactional health during activity
+              - Redesign DB schemas and operations through distributed events for better performance.
+              - Create and Mantain Infrastructure cost, monitoring and solutions  
                 
       - layout: left
-        title: Hexacta / Walkers
-        sub_title: Principal Software Engineer
-        caption: August 2019 - December 2020
+        title: Walkers
+        sub_title: Lead Software Engineer
+        caption: August 2018 - December 2019 (16 month)
         description: | 
-                - Migration of old .NET 2 and ASP applications to .NET CORE and Web Technologies
-                - Design, Create and Implement a new Standalone frontend architecture using angular
-                - Split into Microservices and background jobs old .NET monolithic to be used for frontend
-                - Redesign DB schemas and operations through event hubs  
-
-                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-                ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-                ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
+              - Migration of old .NET 2 and ASP applications to .NET CORE and Web Technologies
+              - Design, Create and Implement a new Standalone frontend architecture using angular
+              - Split into Microservices and background jobs old .NET monolithic to be used for frontend
+              - Redesign DB schemas and operations through event hubs  
       
       - layout: left
-        title: Hexacta / Coalfire
+        title: Coalfire
         sub_title: Senior Software Engineer
-        caption: August 2016 - August 2019
+        caption: August 2016 - August 2018 (36 month)
         description: |
-                - Backend API development with .NET and Java
-                - Retrieve business values and requirements from stackeholders and customers
-                - Performance testing and monitoring for backend applications performance
-                - SQL and NOSQL such as mongodb for event system arcitecture.
-                - Migration from Monolith to Microservice architecture using AWS EKS for orqestation  
-                  
-                ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-                ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=plastic&logo=octopusdeploy&logoColor=white)
-                ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-                ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-                ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
-                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-                ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-                ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-                ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
-                ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
-                ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
-                ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
-                ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
-                ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
-                ![New Relic](https://img.shields.io/badge/New_Relic-black.svg?style=plastic&logo=new%20relic&logoColor=lightgreen&color=darkblue)
-                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-                ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-                ![ML Flow](https://img.shields.io/badge/ML_Flow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+              - Backend API development with .NET and Java
+              - Retrieve business values and requirements from stackeholders and customers
+              - Performance testing and monitoring for backend applications performance
+              - SQL and NOSQL such as mongodb for event system arcitecture.
+              - Migration from Monolith to Microservice architecture using AWS EKS for orqestation  
 
       - layout: left
-        title: Hexacta / SanCor
+        title: SanCor
         sub_title: .NET Software Engineer
-        caption: August 2015 - April 2016
+        caption: August 2015 - April 2016 (9 month)
         description: | 
-                - Refresh old intranet site to a public hosted domain web application for commerce
-                - Design ServiceBus integration systems for high availability and reliability transaccional environment
-                - Analyse and Optimize DB operations for low timing responses  
-                 
-                ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
-                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
+              - Refresh old intranet site to a public hosted domain web application for commerce
+              - Design ServiceBus integration systems for high availability and reliability transaccional environment
+              - Analyse and Optimize DB operations for low timing responses  
       
       - layout: left
         title: Plus Sistemas S.A
         sub_title: .NET Software Engineer
-        caption: May 2013 - July 2015
+        caption: May 2013 - July 2015 (26 month)
         description: | 
-                - Troubleshot and resolved performance issues for databases and software.
-                - Analyzed, evaluated and developed new web and database applications.
-                - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
-                - Monitored database performance to keep workflows running smoothly.  
-                 
-                ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
-                ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-                ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+              - Troubleshot and resolved performance issues for databases and software.
+              - Analyzed, evaluated and developed new web and database applications.
+              - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
+              - Monitored database performance to keep workflows running smoothly.  
 
       - layout: left
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
         caption: September 2011 - March 2013
         description: | 
-                - Administered, supported, and monitored databases by proactively resolving database issues and maintaining servers.
-                - Developed and updated databases to handle customer data.
-                - Worked with staff to develop and implement procedures to prevent data loss and maximize system availability.
-                - Developed scripts and processes for data integration and maintenance.
-                - Created and updated database designs and data models.  
-               
-                ![TFS](https://img.shields.io/badge/Tfs-0078D7?style=plastic&logo=azure-devops&logoColor=white)
-                ![SQLServer](https://img.shields.io/badge/SQL_Server-black.svg?style=plastic&logo=microsoftsqlserver&logoColor=red)
-                ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+              - Administered, supported, and monitored databases by proactively resolving database issues and maintaining servers.
+              - Developed and updated databases to handle customer data.
+              - Worked with staff to develop and implement procedures to prevent data loss and maximize system availability.
+              - Developed scripts and processes for data integration and maintenance.
+              - Created and updated database designs and data models. 
 
+  
   - title: Education
     layout: list
     content:
