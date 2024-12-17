@@ -45,12 +45,12 @@ content:
   - title: Skills
     layout: text
     content: | 
-          ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-          ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-          ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
-          ![AWS EKS](https://img.shields.io/badge/EKS-white?style=plastic&logo=amazoneks)
-          ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
-          ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
+          ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)`&ensp;`
+          ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)`&ensp;`
+          ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)`&ensp;`
+          ![AWS EKS](https://img.shields.io/badge/EKS-white?style=plastic&logo=amazoneks)`&ensp;`
+          ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)`&ensp;`
+          ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)`&ensp;`
           ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
           
           ![FluentD](https://img.shields.io/badge/FluentD-black.svg?style=plastic&logo=fluentd&logoColor=blue&color=black)
