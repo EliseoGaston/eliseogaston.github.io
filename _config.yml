@@ -109,7 +109,7 @@ content:
       - layout: left
         title: GlobalLogic 
         sub_title: Lead Platform Engineer
-        caption: September 2023 - Present (15 month)
+        caption: September 2023 - Present
         description: | 
               - Standarize more than 30 customer's teams development experience.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
@@ -121,7 +121,7 @@ content:
       - layout: left
         title: Invenco by GVR
         sub_title: Senior Platform Engineer
-        caption: September 2022 - September 2023 (13 month)
+        caption: September 2022 - September 2023
         description: |
               - Improve Dev experience and business KPIs
               - Implement Internal Developer Portal for self serve services (backstage)
@@ -135,7 +135,7 @@ content:
       - layout: left
         title: Marqeta
         sub_title: Lead Site Reliability Engineer
-        caption: December 2021 - August 2022 (9 month)
+        caption: December 2021 - August 2022
         description: |
               - Implement CI/CD pipelines to automate software development lifecycle
               - Implement OCTA worflows for users creation, authentication and authorizations
@@ -146,7 +146,7 @@ content:
       - layout: left
         title: Leonardo247
         sub_title: Lead Site Reliability Engineer
-        caption: February 2021 - December 2021 (10 month)
+        caption: February 2021 - December 2021
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
               - Design new infrastructure on AWS EKS,
@@ -159,7 +159,7 @@ content:
       - layout: left
         title: Becton & Dickinson 
         sub_title: Senior Site Reliability Engineer
-        caption: December 2019 - January 2021 (14 month)
+        caption: December 2019 - January 2021
         description: |
               - Observe, Analyze and Review Infrastructure and Application for cost effective solutions. 
               - Containarize applications using Docker and Kubernetes for modernization and Continous Delivery on Github Actions
@@ -172,7 +172,7 @@ content:
       - layout: left
         title: Walkers
         sub_title: Lead Software Engineer
-        caption: August 2018 - December 2019 (16 month)
+        caption: August 2018 - December 2019
         description: | 
               - Migration of old .NET 2 and ASP applications to .NET CORE and Web Technologies
               - Design, Create and Implement a new Standalone frontend architecture using angular
@@ -182,7 +182,7 @@ content:
       - layout: left
         title: Coalfire
         sub_title: Senior Software Engineer (.NET and Java)
-        caption: August 2016 - August 2018 (36 month)
+        caption: August 2016 - August 2018
         description: |
               - Cybersecurity. Healthcare, PCI DSS, FedRAMP, HIPPA
               - Design, Scale and Maintain HA Public API with .NET and Java, (Monolithics and Serverless APIs)
@@ -196,7 +196,7 @@ content:
       - layout: left
         title: SanCor
         sub_title: .NET Software Engineer
-        caption: August 2015 - April 2016 (9 month)
+        caption: August 2015 - April 2016
         description: | 
               - Refresh old intranet site to a public hosted domain web application for insurance
               - Maintain, modernize and stabilize .NET ASP.NET application on IIS.
@@ -207,7 +207,7 @@ content:
       - layout: left
         title: Plus Sistemas S.A
         sub_title: Java Software Engineer
-        caption: May 2013 - July 2015 (26 month)
+        caption: May 2013 - July 2015
         description: | 
               - Troubleshot and resolved performance issues for databases and software.
               - Analyze, evaluate and develop new web and database applications.
