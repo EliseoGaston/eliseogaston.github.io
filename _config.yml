@@ -41,6 +41,7 @@ about_content: |
   My expertise in cloud infrastructure design architectures, strong skills in DevOps/DevSecOps, and years of experience in every part of the software development lifecycle help me make every decision professionally.
   
   I'm most interested in security, observability, and performances. Automating all of this is my fervent interest.
+  
 content:
   - title: Skills
     layout: text
@@ -57,17 +58,17 @@ content:
 
           
           ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-          ![CassandraDB]()
+          ![CassandraDB](https://img.shields.io/badge/CassandraDB-white?style=plastic)
           ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
           ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=#4169E1)
-          ![MS SQL Server]()
-          ![Oracle PL/SQL]()
+          ![MS SQL Server](https://img.shields.io/badge/MS%20SQL-white?style=plastic)
+          ![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PLSQL-white?style=plastic)
           ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
           ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
                 
           ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
           ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-white?style=plastic&logo=amazonsqs)
-          ![AWS EventBridge]()
+          ![AWS EventBridge](https://img.shields.io/badge/EventBdrige-white?style=plastic)
                 
           ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
           ![Java](https://img.shields.io/badge/Java-grey?style=plastic&logo=openjdk)
@@ -77,7 +78,7 @@ content:
           ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
           ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
           ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=#D24939)
-          ![FluxCD]()
+          ![FluxCD](https://img.shields.io/badge/FluxCD-white?style=plastic)
           ![Argo CD](https://img.shields.io/badge/Argo_CD-white.svg?style=plastic&logo=argo&logoColor=orange&color=white)
           ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=plastic&logo=octopusdeploy&logoColor=white)
                 
@@ -86,11 +87,11 @@ content:
           ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
           ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
           ![AWS Cloudwatch](https://img.shields.io/badge/AW%20CloudWatch-white?style=plastic&logo=amazoncloudwatch&logoColor=#FF4F8B)
-          ![SigNoz]()
+          ![SigNoz](https://img.shields.io/badge/SigNoz-white?style=plastic)
           
           ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
           ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
-          ![KUBEBENCH]()
+          ![KUBEBENCH](https://img.shields.io/badge/KUBEBENCH-white?style=plastic)
           ![Trivy](https://img.shields.io/badge/Trivy-black?style=plastic&logo=trivy&logoColor=#1904DA)
           ![JFrog](https://img.shields.io/badge/JFrog-white?style=plastic&logo=jfrog&logoColor=#40BE46)
 
@@ -102,6 +103,8 @@ content:
           ![Jira](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=#0052CC)
           ![PagerDuty](https://img.shields.io/badge/PagerDuty-black?style=plastic&logo=pagerduty&logoColor=#06AC38)
           ![OpsGenie](https://img.shields.io/badge/OpsGenie-blue?style=plastic&logo=opsgenie&logoColor=#172B4D)
+
+          Native Spanish speaking, learning Portuguese and Italian. English level C2 Business, with more than 10 years working with US, EU and APAC clients arround the world. 
 
   - title: Experience
     layout: list
