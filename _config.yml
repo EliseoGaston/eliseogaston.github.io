@@ -45,35 +45,63 @@ content:
   - title: Skills
     layout: text
     content: | 
-        **Cloud Providers**:  AWS, Azure
-            
-        **Monitoring**:  Prometheus, Grafana, Loki, FluentD, FluentBit, Azure Application Insights
-            
-        **Observability**:  Datadog, New Relic, AWS CloudWatch
+          ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+          ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+          ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
+          ![AWS EKS](https://img.shields.io/badge/EKS-white?style=plastic&logo=amazoneks)
+          ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
+          ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
+          ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
+          
+          ![FluentD](https://img.shields.io/badge/FluentD-black.svg?style=plastic&logo=fluentd&logoColor=blue&color=black)
 
-        **FinOps**: Terracost, Kubecost, CloudZero, Datadog, AWS Cost Management, Azure Cost Explorer
-            
-        **Containerization**:  Vagrant, Docker, COntainerD, LXC/LXD, BuildKit, Kaniko, Podman
-        
-        **Orquestation**:  Kubernetes, EKS, AKS, GKE, Docker Swarm, Docker Compose
-        
-        **Package Management**:  Helm, Kustomize
-        
-        **GitOps**:  ArgoCD, Tekton, Flux, Jenkins-x
-        
-        **VCS**:  Gitlab, Github, Azure DevOps
-        
-        **Infastructure as Code**:  Terraform, Pulumi, Crossplane, AWS CDK
-        
-        **Configuration as Code**:  Ansible, SaltStack
-        
-        **Programming Languaje**:  NET, Java, Golang
-        
-        **Databases**:  SQLs, MongoDB, Redis, Cassandra, DynamoDB
-            
-        **Methodologies**:  Git, Scrum, Kanban, SaFE
+          
+          ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+          ![CassandraDB]()
+          ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+          ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=#4169E1)
+          ![MS SQL Server]()
+          ![Oracle PL/SQL]()
+          ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
+          ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
+                
+          ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
+          ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-white?style=plastic&logo=amazonsqs)
+          ![AWS EventBridge]()
+                
+          ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+          ![Java](https://img.shields.io/badge/Java-grey?style=plastic&logo=openjdk)
+          ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+                
+          ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
+          ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
+          ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+          ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=#D24939)
+          ![FluxCD]()
+          ![Argo CD](https://img.shields.io/badge/Argo_CD-white.svg?style=plastic&logo=argo&logoColor=orange&color=white)
+          ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=plastic&logo=octopusdeploy&logoColor=white)
+                
+          ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
+          ![New Relic](https://img.shields.io/badge/New_Relic-black.svg?style=plastic&logo=new%20relic&logoColor=lightgreen&color=darkblue)
+          ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
+          ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
+          ![AWS Cloudwatch](https://img.shields.io/badge/AW%20CloudWatch-white?style=plastic&logo=amazoncloudwatch&logoColor=#FF4F8B)
+          ![SigNoz]()
+          
+          ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
+          ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
+          ![KUBEBENCH]()
+          ![Trivy](https://img.shields.io/badge/Trivy-black?style=plastic&logo=trivy&logoColor=#1904DA)
+          ![JFrog](https://img.shields.io/badge/JFrog-white?style=plastic&logo=jfrog&logoColor=#40BE46)
 
-        **Shifts**: PagerDuty, AlertManager, Jira Incident Management, OpsGenie
+          ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+          ![OKTA](https://img.shields.io/badge/OKTA-darkblue.svg?style=plastic&logo=okta&logoColor=white&color=darkblue)
+          ![AUTH0](https://img.shields.io/badge/Auth0-black?style=plastic&logo=Auth0)
+          ![KEYCLOAK](https://img.shields.io/badge/keycloak-green?style=plastic&logo=Keycloak)
+
+          ![Jira](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=#0052CC)
+          ![PagerDuty](https://img.shields.io/badge/PagerDuty-black?style=plastic&logo=pagerduty&logoColor=#06AC38)
+          ![OpsGenie](https://img.shields.io/badge/OpsGenie-blue?style=plastic&logo=opsgenie&logoColor=#172B4D)
 
   - title: Experience
     layout: list
@@ -83,39 +111,42 @@ content:
         sub_title: Lead Platform Engineer
         caption: September 2023 - Present (15 month)
         description: | 
-              - Lead of Platform Engineer Team which standarize more than 30+ customers' teams
+              - Standarize more than 30 customer's teams development experience.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
-              - Design and architect micro-services and complex systems
-              - Follow requirements,metrics and feedback from customers to get that improvement area retrofit.
-              - Coordinated efficient large-scale software deployments and architecture for IoT, Healthcare and PCI environments.
-              - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business.  
-
+              - Design and architect high level distributed and complex HA systems
+              - Review retrofeed and Customer feedback as improving metrics to track and plan work based on priorities and necesities.
+              - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business across all the teams.
+              - Standarize metrics, strategies and incident management across many teams.
 
       - layout: left
         title: Invenco by GVR
         sub_title: Senior Platform Engineer
-        caption: December 2022 - September 2023 (10)
+        caption: September 2022 - September 2023 (13 month)
         description: |
-              - Improve Dev experience
-              - Implement Internal Developer Portal
-              - Self provisioning Services and Infrastructure
-              - Auto-heal systems
+              - Improve Dev experience and business KPIs
+              - Implement Internal Developer Portal for self serve services (backstage)
+              - Centralize Enterprise Artifactory solution and workflows acorss all products, to match security, quality and performance.
+              - Implement Reusable Terraform, Ansible and Go shared libraries for Teams to standarize application across products
+              - Coordinated efficient large-scale continuos delivery for IoT, Healthcare and PCI environments, witch involves more than 30 products.
+              - Design and automate self-healing systems using Kubernetes operators and Incident runbooks
+              - Design, Manage and Admin Incident Management System, Implement Alerting Systems (PagerDuty, Prometheus, AWS Cloudwatch, Icinga)
+              - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
       
       - layout: left
         title: Marqeta
-        sub_title: Lead DevOps Engineer
-        caption: April 2022 - December 2022 (9 month)
+        sub_title: Lead Site Reliability Engineer
+        caption: December 2021 - August 2022 (9 month)
         description: |
-              - Implement CI/CD pipelines to automate provisioning of accounts
-              - Implement OCTA worflows for users creation provition
+              - Implement CI/CD pipelines to automate software development lifecycle
+              - Implement OCTA worflows for users creation, authentication and authorizations
               - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
               - Implement Observability and Monitoring on Serverless architecture
               - Reveal and Retrofit business needs for tracking business value. 
         
       - layout: left
         title: Leonardo247
-        sub_title: Lead DevOps Engineer
-        caption: April 2021 - April 2022 (12 month)
+        sub_title: Lead Site Reliability Engineer
+        caption: February 2021 - December 2021 (10 month)
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
               - Design new infrastructure on AWS EKS,
@@ -127,14 +158,16 @@ content:
                 
       - layout: left
         title: Becton & Dickinson 
-        sub_title: Senior DevOps Engineer
-        caption: December 2019 - April 2021 (17 month)
+        sub_title: Senior Site Reliability Engineer
+        caption: December 2019 - January 2021 (14 month)
         description: |
-              - Observe, Analyze and Review Infrastructure and Application for cost effective solutions.
-              - Design, Create and Implement 3-parties integrations with platform.
-              - Monitoring, Design and Review DBs and transactional health during activity
-              - Redesign DB schemas and operations through distributed events for better performance.
-              - Create and Mantain Infrastructure cost, monitoring and solutions  
+              - Observe, Analyze and Review Infrastructure and Application for cost effective solutions. 
+              - Containarize applications using Docker and Kubernetes for modernization and Continous Delivery on Github Actions
+              - Design, Create and Implement 3-parties integrations with platform. (AWS Athena, AWS EMR, AWS QUICKSIGHTS)
+              - Monitoring, Design and Review transactional databases health and performance (PL-SQL and Postgres)
+              - Redesign DB schemas and operations through distributed events for better performance no NO-SQL database (MongoDB and DyanamoDB)
+              - Create and Mantain Infrastructure cost, monitoring and solutions using Datadog and AWS Cloudwatch
+              - Design, Implement and Maintain Auth0 workflows for authentication and authorization across all Products through SSO/OIDC
                 
       - layout: left
         title: Walkers
@@ -148,44 +181,50 @@ content:
       
       - layout: left
         title: Coalfire
-        sub_title: Senior Software Engineer
+        sub_title: Senior Software Engineer (.NET and Java)
         caption: August 2016 - August 2018 (36 month)
         description: |
-              - Backend API development with .NET and Java
+              - Cybersecurity. Healthcare, PCI DSS, FedRAMP, HIPPA
+              - Design, Scale and Maintain HA Public API with .NET and Java, (Monolithics and Serverless APIs)
               - Retrieve business values and requirements from stackeholders and customers
               - Performance testing and monitoring for backend applications performance
-              - SQL and NOSQL such as mongodb for event system arcitecture.
-              - Migration from Monolith to Microservice architecture using AWS EKS for orqestation  
+              - Opeartate and Maintain Multi-schema MS SQL Server Cluster Database. Monitor and performance improvements on low-performant code
+              - Design, Operate, Build and Scale Mongodb cluster onpremise for lower and Atlas for Production. Snapshoting and Versioning system design architecture-
+              - Implement Event-driven architecture with Kafka, AWS SQS, AWS SNS
+              - Migration from Monolith to distributed architecture using Kubernetes on AWS EKS, and event-sourcing systems such as Apache Kafka.
 
       - layout: left
         title: SanCor
         sub_title: .NET Software Engineer
         caption: August 2015 - April 2016 (9 month)
         description: | 
-              - Refresh old intranet site to a public hosted domain web application for commerce
-              - Design ServiceBus integration systems for high availability and reliability transaccional environment
-              - Analyse and Optimize DB operations for low timing responses  
+              - Refresh old intranet site to a public hosted domain web application for insurance
+              - Maintain, modernize and stabilize .NET ASP.NET application on IIS.
+              - Maintain, patch and operate Servers for Database, IIS and FTP.
+              - Design ServiceBus integration systems for high availability and reliability event-driven transactional environment
+              - Analyse and Optimize DB operations for low timing responses across tenants
       
       - layout: left
         title: Plus Sistemas S.A
-        sub_title: .NET Software Engineer
+        sub_title: Java Software Engineer
         caption: May 2013 - July 2015 (26 month)
         description: | 
               - Troubleshot and resolved performance issues for databases and software.
-              - Analyzed, evaluated and developed new web and database applications.
+              - Analyze, evaluate and develop new web and database applications.
               - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
-              - Monitored database performance to keep workflows running smoothly.  
+              - Responsible for Continuos Integration using TFS, WebDeploy, IIS and Jenkins
+              - Monitored database performance to keep workflows running smoothly.
 
       - layout: left
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
         caption: September 2011 - March 2013
         description: | 
-              - Administered, supported, and monitored databases by proactively resolving database issues and maintaining servers.
-              - Developed and updated databases to handle customer data.
-              - Worked with staff to develop and implement procedures to prevent data loss and maximize system availability.
-              - Developed scripts and processes for data integration and maintenance.
-              - Created and updated database designs and data models. 
+              - Administering and monitoring databases by proactively resolving issues and onprem servers.
+              - Develop and patch databases to perform best on customer's data.
+              - Implement procedures and Hardening to prevent data loss and maximize system availability.
+              - Process data integration and data resiliency and maintenance.
+              - Maintain database designs, schemas and data models. 
 
   
   - title: Education
