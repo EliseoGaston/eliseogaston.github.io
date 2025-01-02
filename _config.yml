@@ -112,7 +112,7 @@ content:
       - layout: left
         title: GlobalLogic 
         sub_title: Lead Platform Engineer
-        caption: September 2023 - Present
+        caption: October 2024 - Present
         description: | 
               - Standarize more than 30 customer's teams development experience.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
@@ -120,11 +120,24 @@ content:
               - Review retrofeed and Customer feedback as improving metrics to track and plan work based on priorities and necesities.
               - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business across all the teams.
               - Standarize metrics, strategies and incident management across many teams.
+      
+      - layout: left
+        title: Dynata Inc.
+        sub_title: Sr. Site Reability Engineeer
+        caption: April 2024 - October 2024
+        description: | 
+              - Skilled at working independently and collaboratively in a team environment.
+              - Design new infrastructure on AWS EKS, AWS Organizations, AWS SSO.
+              - Infrastructure as Code using Terraform and Ansible, Docker and Kubernetes.
+              - Design security and scalability for development team to access resources.
+              - Implement, Design and Review SOC 2 security compliance
+              - DevSecOps practices using DAST and SAST software on TeamCity OnPrem, Github
+              - Design and monitoring SDLC and Infrastructure with Datadog, OpsGenie, NewRelic
 
       - layout: left
         title: Invenco by GVR
         sub_title: Senior Platform Engineer
-        caption: September 2022 - September 2023
+        caption: September 2022 - February 2024
         description: |
               - Improve Dev experience and business KPIs
               - Implement Internal Developer Portal for self serve services (backstage)
@@ -134,22 +147,11 @@ content:
               - Design and automate self-healing systems using Kubernetes operators and Incident runbooks
               - Design, Manage and Admin Incident Management System, Implement Alerting Systems (PagerDuty, Prometheus, AWS Cloudwatch, Icinga)
               - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
-      
-      - layout: left
-        title: Marqeta
-        sub_title: Lead Site Reliability Engineer
-        caption: December 2021 - August 2022
-        description: |
-              - Implement CI/CD pipelines to automate software development lifecycle
-              - Implement OCTA worflows for users creation, authentication and authorizations
-              - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
-              - Implement Observability and Monitoring on Serverless architecture
-              - Reveal and Retrofit business needs for tracking business value. 
-        
+
       - layout: left
         title: Leonardo247
-        sub_title: Lead Site Reliability Engineer
-        caption: February 2021 - December 2021
+        sub_title: Sr. DevOps
+        caption: April 2022 - September 2022
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
               - Design new infrastructure on AWS EKS,
@@ -158,6 +160,19 @@ content:
               - Implement, Design and Review SOC 2 security compliance
               - DevSecOps practices using DAST and SAST software on GitLab Pipelines.
               - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
+      
+      - layout: left
+        title: Marqeta
+        sub_title: Lead Site Reliability Engineer
+        caption: April 2021 - March 2022
+        description: |
+              - Implement CI/CD pipelines to automate software development lifecycle
+              - Implement OCTA worflows for users creation, authentication and authorizations
+              - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
+              - Implement Observability and Monitoring on Serverless architecture
+              - Reveal and Retrofit business needs for tracking business value. 
+        
+
                 
       - layout: left
         title: Becton & Dickinson 
