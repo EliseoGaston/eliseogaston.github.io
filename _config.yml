@@ -117,13 +117,14 @@ content:
               - Standarize more than 30 customer's teams development experience.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
               - Design and architect high level distributed and complex HA systems
+              - Go and Java cross-products standarization
               - Review retrofeed and Customer feedback as improving metrics to track and plan work based on priorities and necesities.
               - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business across all the teams.
               - Standarize metrics, strategies and incident management across many teams.
       
       - layout: left
         title: Dynata Inc.
-        sub_title: Sr. Site Reability Engineeer
+        sub_title: Lead Platform Engineer
         caption: April 2024 - October 2024
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
@@ -136,8 +137,8 @@ content:
 
       - layout: left
         title: Invenco by GVR
-        sub_title: Senior Platform Engineer
-        caption: September 2022 - February 2024
+        sub_title: Lead Platform Engineer
+        caption: October 2022 - February 2024
         description: |
               - Improve Dev experience and business KPIs
               - Implement Internal Developer Portal for self serve services (backstage)
@@ -145,16 +146,18 @@ content:
               - Implement Reusable Terraform, Ansible and Go shared libraries for Teams to standarize application across products
               - Coordinated efficient large-scale continuos delivery for IoT, Healthcare and PCI environments, witch involves more than 30 products.
               - Design and automate self-healing systems using Kubernetes operators and Incident runbooks
+              - Go and Java cross-products standarization
               - Design, Manage and Admin Incident Management System, Implement Alerting Systems (PagerDuty, Prometheus, AWS Cloudwatch, Icinga)
               - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
 
       - layout: left
         title: Leonardo247
-        sub_title: Sr. DevOps
-        caption: April 2022 - September 2022
+        sub_title: Senior Platform Engineer
+        caption: May 2021 - October 2022
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
               - Design new infrastructure on AWS EKS,
+              - Go and Java cross-products standarization
               - Infrastructure as Code using Terraform and Ansible.
               - Design security and scalability for development team to access resources.
               - Implement, Design and Review SOC 2 security compliance
@@ -163,8 +166,8 @@ content:
       
       - layout: left
         title: Marqeta
-        sub_title: Lead Site Reliability Engineer
-        caption: April 2021 - March 2022
+        sub_title: Senior Platform Engineer
+        caption: September 2020 - May 2021
         description: |
               - Implement CI/CD pipelines to automate software development lifecycle
               - Implement OCTA worflows for users creation, authentication and authorizations
@@ -176,8 +179,8 @@ content:
                 
       - layout: left
         title: Becton & Dickinson 
-        sub_title: Senior Site Reliability Engineer
-        caption: December 2019 - January 2021
+        sub_title: Lead Software Engineer
+        caption: December 2019 - August 2020
         description: |
               - Observe, Analyze and Review Infrastructure and Application for cost effective solutions. 
               - Containarize applications using Docker and Kubernetes for modernization and Continous Delivery on Github Actions
