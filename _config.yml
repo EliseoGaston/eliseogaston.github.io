@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eliseo Gaston Lopez Ariza
-title: Lead Platform Engineer
+title: Principal Site Reliability Engineer
 # email: liseu.90@hotmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -35,7 +35,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  I am a Lead Platform Engineer with over 12 years of experience working with backend and cloud environments using technology stacks like .NET, Java and Go.
+  I am a Principal Site Reliability Engineer with over 12 years of experience working with backend and cloud environments using technology stacks like .NET, Java and Go.
   I work with large and small teams to design, build, manage, monitor and architect micro-services and distributed HA systems that best meet the customer's requirements.
   
   My expertise in cloud infrastructure design architectures, strong skills in DevOps/DevSecOps, and years of experience in every part of the software development lifecycle help me make every decision professionally.
@@ -111,7 +111,7 @@ content:
     content:
       - layout: left
         title: GlobalLogic 
-        sub_title: Lead Platform Engineer
+        sub_title: Principal Site Reliability Engineer
         caption: October 2024 - Present
         description: | 
               - Standarize more than 30 customer's teams development experience.
@@ -124,7 +124,7 @@ content:
       
       - layout: left
         title: Dynata Inc.
-        sub_title: Lead Platform Engineer
+        sub_title: Lead Site Reliability Engineer
         caption: April 2024 - October 2024
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
@@ -137,7 +137,7 @@ content:
 
       - layout: left
         title: Invenco by GVR
-        sub_title: Lead Platform Engineer
+        sub_title: Lead Site Reliability Engineer
         caption: October 2022 - February 2024
         description: |
               - Improve Dev experience and business KPIs
@@ -152,7 +152,7 @@ content:
 
       - layout: left
         title: Leonardo247
-        sub_title: Senior Platform Engineer
+        sub_title: Senior Site Reliability Engineer
         caption: May 2021 - October 2022
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
@@ -166,7 +166,7 @@ content:
       
       - layout: left
         title: Marqeta
-        sub_title: Senior Platform Engineer
+        sub_title: Senior Site Reliability Engineer
         caption: September 2020 - May 2021
         description: |
               - Implement CI/CD pipelines to automate software development lifecycle
@@ -253,7 +253,7 @@ content:
     content:
       - layout: left
         title: Universidad Nacional La Plata
-        caption: 2009 - 2016
+        caption: 2009 - not graduated
         sub_title: BSc Computer Science
         description: | 
             During my time at university I learnt most of my key skills that have I have taken through my career such as teamwork collaboration and working to tight deadlines on Agile environments.
