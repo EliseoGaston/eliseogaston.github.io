@@ -47,6 +47,7 @@ content:
     layout: text
     content: | 
           ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+          ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
           ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
           ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
           ![AWS EKS](https://img.shields.io/badge/EKS-white?style=plastic&logo=amazoneks)
@@ -110,25 +111,26 @@ content:
     layout: list
     content:
       - layout: left
-        title: GlobalLogic 
+        title: GlobalLogic
         sub_title: Principal Site Reliability Engineer
-        caption: October 2024 - Present
+        caption: October 2023 - Present
         description: | 
-              - Standarize more than 30 customer's teams development experience.
+              - Standarize more than 30 customer's teams development experience on tools like OTLP, Artifactory, DevSecOps, Release and Quality Management.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
-              - Design and architect high level distributed and complex HA systems
-              - Go and Java cross-products standarization
-              - Review retrofeed and Customer feedback as improving metrics to track and plan work based on priorities and necesities.
+              - Design and architect distributed and complex HA systems and meshed services.
+              - Go, Java, .NET cross-products standarization, dependency management, artifactory, etc.
+              - Plan, Track and design using customer feedback and management prioritization.
               - Observe Infrastructure, Metrics and Budgets to give the customers the best cost efective solution for their business across all the teams.
-              - Standarize metrics, strategies and incident management across many teams.
+              - Standarize metrics, strategies and incident management across many teams for same quality and delivery on products.
+              - Maintain, scale and governance across more than 300 production kubernetes clusters cross region and multicloud.
       
       - layout: left
         title: Dynata Inc.
         sub_title: Lead Site Reliability Engineer
-        caption: April 2024 - October 2024
+        caption: October 2022 - October 2023
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
-              - Design new infrastructure on AWS EKS, AWS Organizations, AWS SSO.
+              - Design, Maintain and Develop new IaC on AWS EKS, AWS Organizations, AWS SSO.
               - Infrastructure as Code using Terraform and Ansible, Docker and Kubernetes.
               - Design security and scalability for development team to access resources.
               - Implement, Design and Review SOC 2 security compliance
@@ -136,9 +138,9 @@ content:
               - Design and monitoring SDLC and Infrastructure with Datadog, OpsGenie, NewRelic
 
       - layout: left
-        title: Invenco by GVR
+        title: Invenco by GVR (Vontier)
         sub_title: Lead Site Reliability Engineer
-        caption: October 2022 - February 2024
+        caption: May 2021 - October 2022
         description: |
               - Improve Dev experience and business KPIs
               - Implement Internal Developer Portal for self serve services (backstage)
@@ -153,7 +155,7 @@ content:
       - layout: left
         title: Leonardo247
         sub_title: Senior Site Reliability Engineer
-        caption: May 2021 - October 2022
+        caption: May 2021 - May 2021
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
               - Design new infrastructure on AWS EKS,
@@ -165,7 +167,7 @@ content:
               - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
       
       - layout: left
-        title: Marqeta
+        title: Marqeta Inc.
         sub_title: Senior Site Reliability Engineer
         caption: September 2020 - May 2021
         description: |
@@ -174,11 +176,23 @@ content:
               - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
               - Implement Observability and Monitoring on Serverless architecture
               - Reveal and Retrofit business needs for tracking business value. 
-        
-
+      
+      - layout: left
+        title: Clara Analytics (Hexacta SA)
+        sub_title: Lead Software Engineer
+        caption: December 2019 - August 2020
+        description: |
+              - Design, Plan and orchestrate new's startup project
+              - Interview, Plan and manage cross-role team.
+              - Design processes, scalability and Cloud Architecture using AWS and Azure
+              - Lead Teams efforts, stackeholders requirements or information and design highly scalable solutions
+              - Cross languaje microservices using Java for microservices and Go for documents/high cpu intensive jobs
+              - Distributed and Cloud Native application
+              - New Relic monitoring based obervability
+              - PostgresSQL, Mongodb and DynamoDB.
                 
       - layout: left
-        title: Becton & Dickinson 
+        title: Becton & Dickinson (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: December 2019 - August 2020
         description: |
@@ -191,7 +205,7 @@ content:
               - Design, Implement and Maintain Auth0 workflows for authentication and authorization across all Products through SSO/OIDC
                 
       - layout: left
-        title: Walkers
+        title: Walkers (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: August 2018 - December 2019
         description: | 
@@ -201,7 +215,7 @@ content:
               - Redesign DB schemas and operations through event hubs  
       
       - layout: left
-        title: Coalfire
+        title: Coalfire (Hexacta SA)
         sub_title: Senior Software Engineer (.NET and Java)
         caption: August 2016 - August 2018
         description: |
@@ -212,10 +226,10 @@ content:
               - Opeartate and Maintain Multi-schema MS SQL Server Cluster Database. Monitor and performance improvements on low-performant code
               - Design, Operate, Build and Scale Mongodb cluster onpremise for lower and Atlas for Production. Snapshoting and Versioning system design architecture-
               - Implement Event-driven architecture with Kafka, AWS SQS, AWS SNS
-              - Migration from Monolith to distributed architecture using Kubernetes on AWS EKS, and event-sourcing systems such as Apache Kafka.
+              - Migration from Monolith to distributed architecture using Kubernetes on AWS EKS,.
 
       - layout: left
-        title: SanCor
+        title: SanCor (Hexacta SA)
         sub_title: .NET Software Engineer
         caption: August 2015 - April 2016
         description: | 
@@ -230,9 +244,10 @@ content:
         sub_title: Java Software Engineer
         caption: May 2013 - July 2015
         description: | 
-              - Troubleshot and resolved performance issues for databases and software.
-              - Analyze, evaluate and develop new web and database applications.
+              - Troubleshot, monitor and profile performance issues for applications.
+              - Analyze, evaluate and develop web applications.
               - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
+              - Web Application Development using JavaEE, Springboot, Maven
               - Responsible for Continuos Integration using TFS, WebDeploy, IIS and Jenkins
               - Monitored database performance to keep workflows running smoothly.
 
