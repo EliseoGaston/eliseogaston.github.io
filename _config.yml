@@ -113,7 +113,11 @@ content:
       - layout: left
         title: GlobalLogic
         sub_title: Principal Site Reliability Engineer
-        caption: October 2023 - Present
+        caption: |
+          October 2023 - Present
+          ![AWS EventBridge](https://img.shields.io/badge/EventBdrige-white?style=plastic) ![PagerDuty](https://img.shields.io/badge/PagerDuty-black?style=plastic&logo=pagerduty&logoColor=#06AC38)
+          ![New Relic](https://img.shields.io/badge/New_Relic-black.svg?style=plastic&logo=new%20relic&logoColor=lightgreen&color=darkblue)
+          ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
         description: | 
               - Standarize more than 30 customer's teams development experience on tools like OTLP, Artifactory, DevSecOps, Release and Quality Management.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
