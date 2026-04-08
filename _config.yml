@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Eliseo Gaston Lopez Ariza
-title: Principal Site Reliability Engineer
+title: Lead DevOps Engineer
 # email: liseu.90@hotmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -46,11 +46,12 @@ content:
   - title: Skills
     layout: text
     content: | 
+          ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=plastic)
           ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
           ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
           ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
           ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
-          ![AWS EKS](https://img.shields.io/badge/EKS-white?style=plastic&logo=amazoneks)
+          ![AWS AKS](https://img.shields.io/badge/AKS-blue?style=plastic)
           ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
           ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
           ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
@@ -68,7 +69,7 @@ content:
           ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
                 
           ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
-          ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-white?style=plastic&logo=amazonsqs)
+          ![Azure MessageBus](https://img.shields.io/badge/AWS%20SQS-white?style=plastic&logo=amazonsqs)
           ![AWS EventBridge](https://img.shields.io/badge/EventBdrige-white?style=plastic)
                 
           ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
@@ -88,11 +89,10 @@ content:
           ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
           ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
           ![AWS Cloudwatch](https://img.shields.io/badge/AW%20CloudWatch-white?style=plastic&logo=amazoncloudwatch&logoColor=#FF4F8B)
-          ![SigNoz](https://img.shields.io/badge/SigNoz-white?style=plastic)
+          ![Azure AppInsights](https://img.shields.io/badge/AppInsights-blue?style=plastic)
           
           ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
           ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
-          ![KUBEBENCH](https://img.shields.io/badge/KUBEBENCH-white?style=plastic)
           ![Trivy](https://img.shields.io/badge/Trivy-black?style=plastic&logo=trivy&logoColor=#1904DA)
           ![JFrog](https://img.shields.io/badge/JFrog-white?style=plastic&logo=jfrog&logoColor=#40BE46)
 
@@ -131,7 +131,7 @@ content:
         caption: October 2022 - October 2023
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
-              - Design, Maintain and Develop new IaC on AWS EKS, AWS Organizations, AWS SSO.
+              - Design, Maintain and Develop new IaC on Azure AKS, MSF Azure Organizations, Azure Identity Management.
               - Infrastructure as Code using Terraform and Ansible, Docker and Kubernetes.
               - Design security and scalability for development team to access resources.
               - Implement, Design and Review SOC 2 security compliance
@@ -150,7 +150,7 @@ content:
               - Coordinated efficient large-scale continuos delivery for IoT, Healthcare and PCI environments, witch involves more than 30 products.
               - Design and automate self-healing systems using Kubernetes operators and Incident runbooks
               - Go and Java cross-products standarization
-              - Design, Manage and Admin Incident Management System, Implement Alerting Systems (PagerDuty, Prometheus, AWS Cloudwatch, Icinga)
+              - Design, Manage and Admin Incident Management System, Implement Alerting Systems (PagerDuty, Prometheus, Azure, Icinga)
               - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
 
       - layout: left
@@ -159,7 +159,7 @@ content:
         caption: May 2021 - May 2021
         description: | 
               - Skilled at working independently and collaboratively in a team environment.
-              - Design new infrastructure on AWS EKS,
+              - Design new serverless infrastructure on Azure,
               - Go and Java cross-products standarization
               - Infrastructure as Code using Terraform and Ansible.
               - Design security and scalability for development team to access resources.
@@ -174,7 +174,7 @@ content:
         description: |
               - Implement CI/CD pipelines to automate software development lifecycle
               - Implement OCTA worflows for users creation, authentication and authorizations
-              - Create, Mantain and Architect AWS LAMBDA for provitioning of accounts and services
+              - Create, Mantain and Architect Azure App Services for provitioning of accounts and services
               - Implement Observability and Monitoring on Serverless architecture
               - Reveal and Retrofit business needs for tracking business value. 
       
@@ -226,8 +226,8 @@ content:
               - Performance testing and monitoring for backend applications performance
               - Opeartate and Maintain Multi-schema MS SQL Server Cluster Database. Monitor and performance improvements on low-performant code
               - Design, Operate, Build and Scale Mongodb cluster onpremise for lower and Atlas for Production. Snapshoting and Versioning system design architecture-
-              - Implement Event-driven architecture with Kafka, AWS SQS, AWS SNS
-              - Migration from Monolith to distributed architecture using Kubernetes on AWS EKS,.
+              - Implement Event-driven architecture with Azure Service Bus, Azure Notification Hub and Azure webapps
+              - Migration from Monolith to distributed architecture using Kubernetes on Azure AKS (self managed)
 
       - layout: left
         title: SanCor (Hexacta SA)
