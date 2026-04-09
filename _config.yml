@@ -111,7 +111,21 @@ content:
     layout: list
     content:
       - layout: left
-        title: GlobalLogic
+        title: Botmaker
+        sub_title: Principal Site Reliability Engineer (Java Performance Engineer)
+        caption: |
+          September 2025 - March 2026
+        description: |
+        
+      - layout: left
+        title: DfinSolutions (Techunting)
+        sub_title: Senior Site Reliability Engineer
+        caption: |
+          September 2025 - March 2026
+        description: |
+        
+      - layout: left
+        title: The FreshMarket (GlobalLogic)
         sub_title: Principal Site Reliability Engineer
         caption: |
           October 2023 - Present
@@ -126,7 +140,7 @@ content:
               - Maintain, scale and governance across more than 300 production kubernetes clusters cross region and multicloud.
       
       - layout: left
-        title: Dynata Inc.
+        title: Dynata Inc. (TechGenies)
         sub_title: Lead Site Reliability Engineer
         caption: October 2022 - October 2023
         description: | 
@@ -139,8 +153,8 @@ content:
               - Design and monitoring SDLC and Infrastructure with Datadog, OpsGenie, NewRelic
 
       - layout: left
-        title: Invenco by GVR (Vontier)
-        sub_title: Lead Site Reliability Engineer
+        title: Invenco by GVR (Svitla)
+        sub_title: Senior Site Reliability Engineer
         caption: May 2021 - October 2022
         description: |
               - Improve Dev experience and business KPIs
@@ -154,7 +168,7 @@ content:
               - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
 
       - layout: left
-        title: Leonardo247
+        title: Leonardo247 (TechGenies)
         sub_title: Senior Site Reliability Engineer
         caption: May 2021 - May 2021
         description: | 
@@ -168,7 +182,7 @@ content:
               - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
       
       - layout: left
-        title: Marqeta Inc.
+        title: Marqeta Inc. (Taller Tech)
         sub_title: Senior Site Reliability Engineer
         caption: September 2020 - May 2021
         description: |
@@ -269,18 +283,18 @@ content:
     content:
       - layout: left
         title: Universidad Nacional La Plata
-        caption: 2009 - not graduated
+        caption: 2009 - 2016
         sub_title: BSc Computer Science
         description: | 
-            During my time at university I learnt most of my key skills that have I have taken through my career such as teamwork collaboration and working to tight deadlines on Agile environments.
+            During my time at university, I polish the teamwork collaboration, professional leading investigations, high performance designs and projects.  
             
-            I owned a master in HA and Grid Scalable System Designs and Cloud Distributed Architectures.
+            I owned a master in HA and Grid Scalable System Designs through distributed Architectures.
             
-            I had lot of experience at that time with Cloud and HA designs  
+            I had lot of experience at that time with Cloud Distributed Architectures and HA designs.  
 
 # Footer
-footer_show_references: true
-references_title: Contact Me!
+#footer_show_references: true
+#references_title: Contact Me!
 
 # Build settings
 remote_theme: sproogen/resume-theme
