@@ -111,6 +111,7 @@ content:
     layout: list
     content:
       - layout: left
+        border: weak
         title: Botmaker
         sub_title: Principal Site Reliability Engineer (Java Performance Engineer)
         caption: |
@@ -118,6 +119,7 @@ content:
         description: |
         
       - layout: left
+        border: weak
         title: DfinSolutions (Techunting)
         sub_title: Senior Site Reliability Engineer
         caption: |
@@ -125,6 +127,7 @@ content:
         description: |
         
       - layout: left
+        border: weak
         title: The FreshMarket (GlobalLogic)
         sub_title: Principal Site Reliability Engineer
         caption: |
@@ -140,6 +143,7 @@ content:
               - Maintain, scale and governance across more than 300 production kubernetes clusters cross region and multicloud.
       
       - layout: left
+        border: weak
         title: Dynata Inc. (TechGenies)
         sub_title: Lead Site Reliability Engineer
         caption: October 2022 - October 2023
@@ -153,6 +157,7 @@ content:
               - Design and monitoring SDLC and Infrastructure with Datadog, OpsGenie, NewRelic
 
       - layout: left
+        border: weak
         title: Invenco by GVR (Svitla)
         sub_title: Senior Site Reliability Engineer
         caption: May 2021 - October 2022
@@ -168,6 +173,7 @@ content:
               - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
 
       - layout: left
+        border: weak
         title: Leonardo247 (TechGenies)
         sub_title: Senior Site Reliability Engineer
         caption: May 2021 - May 2021
@@ -182,6 +188,7 @@ content:
               - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
       
       - layout: left
+        border: weak
         title: Marqeta Inc. (Taller Tech)
         sub_title: Senior Site Reliability Engineer
         caption: September 2020 - May 2021
@@ -193,6 +200,7 @@ content:
               - Reveal and Retrofit business needs for tracking business value. 
       
       - layout: left
+        border: weak
         title: Clara Analytics (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: December 2019 - August 2020
@@ -207,6 +215,7 @@ content:
               - PostgresSQL, Mongodb and DynamoDB.
                 
       - layout: left
+        border: weak
         title: Becton & Dickinson (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: December 2019 - August 2020
@@ -220,6 +229,7 @@ content:
               - Design, Implement and Maintain Auth0 workflows for authentication and authorization across all Products through SSO/OIDC
                 
       - layout: left
+        border: weak
         title: Walkers (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: August 2018 - December 2019
@@ -230,6 +240,7 @@ content:
               - Redesign DB schemas and operations through event hubs  
       
       - layout: left
+        border: weak
         title: Coalfire (Hexacta SA)
         sub_title: Senior Software Engineer (.NET and Java)
         caption: August 2016 - August 2018
@@ -244,6 +255,7 @@ content:
               - Migration from Monolith to distributed architecture using Kubernetes on Azure AKS (self managed)
 
       - layout: left
+        border: weak
         title: SanCor (Hexacta SA)
         sub_title: .NET Software Engineer
         caption: August 2015 - April 2016
@@ -255,6 +267,7 @@ content:
               - Analyse and Optimize DB operations for low timing responses across tenants
       
       - layout: left
+        border: weak
         title: Plus Sistemas S.A
         sub_title: Java Software Engineer
         caption: May 2013 - July 2015
@@ -267,6 +280,7 @@ content:
               - Monitored database performance to keep workflows running smoothly.
 
       - layout: left
+        border: weak
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
         caption: September 2011 - March 2013
