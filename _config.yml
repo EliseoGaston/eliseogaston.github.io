@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: eliseogaston/eliseogaston.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -311,7 +311,7 @@ content:
 #references_title: Contact Me!
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: eliseogaston/modern-resume-theme
 
 sass:
   sass_dir: _sass
@@ -319,3 +319,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+]
