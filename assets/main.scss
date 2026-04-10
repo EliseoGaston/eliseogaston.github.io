@@ -6,7 +6,9 @@
 
 .layout {
   flex-direction: column;
+  
   .details {
+    flex-direction: row;
     justify-content: flex-start;
   }
 }

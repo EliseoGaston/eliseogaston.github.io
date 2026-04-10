@@ -43,75 +43,11 @@ about_content: |
   I'm most interested in security, observability, and performances. Automating all of this is my fervent interest.
   
 content:
-  - title: Skills
-    layout: text
-    content: | 
-          ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=plastic)
-          ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-          ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-          ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-          ![Ansible](https://img.shields.io/badge/Ansible-black.svg?style=plastic&logo=ansible&logoColor=white&color=black)
-          ![AWS AKS](https://img.shields.io/badge/AKS-blue?style=plastic)
-          ![K8s](https://img.shields.io/badge/K8s-blue.svg?style=plastic&logo=kubernetes&logoColor=blue&color=white)
-          ![ContainerD](https://img.shields.io/badge/ContainerD-white.svg?style=plastic&logo=containerd&logoColor=black&color=white)
-          ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
-          
-          ![FluentD](https://img.shields.io/badge/FluentD-black.svg?style=plastic&logo=fluentd&logoColor=blue&color=black)
-
-          
-          ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-          ![CassandraDB](https://img.shields.io/badge/CassandraDB-white?style=plastic)
-          ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-          ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=#4169E1)
-          ![MS SQL Server](https://img.shields.io/badge/MS%20SQL-white?style=plastic)
-          ![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PLSQL-white?style=plastic)
-          ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
-          ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-                
-          ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
-          ![Azure MessageBus](https://img.shields.io/badge/AWS%20SQS-white?style=plastic&logo=amazonsqs)
-          ![AWS EventBridge](https://img.shields.io/badge/EventBdrige-white?style=plastic)
-                
-          ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-          ![Java](https://img.shields.io/badge/Java-grey?style=plastic&logo=openjdk)
-          ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-                
-          ![GitLab](https://img.shields.io/badge/GitLab-orange.svg?style=plastic&logo=GitLab&logoColor=white&color=orange)
-          ![GitHub](https://img.shields.io/badge/GitHub-white.svg?style=plastic&logo=Github&logoColor=white&color=black)
-          ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-          ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=#D24939)
-          ![FluxCD](https://img.shields.io/badge/FluxCD-white?style=plastic)
-          ![Argo CD](https://img.shields.io/badge/Argo_CD-white.svg?style=plastic&logo=argo&logoColor=orange&color=white)
-          ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=plastic&logo=octopusdeploy&logoColor=white)
-                
-          ![Datadog](https://img.shields.io/badge/Datadog-white.svg?style=plastic&logo=datadog&logoColor=black&color=white)
-          ![New Relic](https://img.shields.io/badge/New_Relic-black.svg?style=plastic&logo=new%20relic&logoColor=lightgreen&color=darkblue)
-          ![Prometheus](https://img.shields.io/badge/Prometheus-white.svg?style=plastic&logo=prometheus&logoColor=orange&color=white)
-          ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=plastic&logo=grafana&logoColor=black&color=orange)
-          ![AWS Cloudwatch](https://img.shields.io/badge/AW%20CloudWatch-white?style=plastic&logo=amazoncloudwatch&logoColor=#FF4F8B)
-          ![Azure AppInsights](https://img.shields.io/badge/AppInsights-blue?style=plastic)
-          
-          ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)
-          ![SonarQube](https://img.shields.io/badge/SonarQube-F3702A?logo=sonarqube&logoColor=fff)
-          ![Trivy](https://img.shields.io/badge/Trivy-black?style=plastic&logo=trivy&logoColor=#1904DA)
-          ![JFrog](https://img.shields.io/badge/JFrog-white?style=plastic&logo=jfrog&logoColor=#40BE46)
-
-          ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-          ![OKTA](https://img.shields.io/badge/OKTA-darkblue.svg?style=plastic&logo=okta&logoColor=white&color=darkblue)
-          ![AUTH0](https://img.shields.io/badge/Auth0-black?style=plastic&logo=Auth0)
-          ![KEYCLOAK](https://img.shields.io/badge/keycloak-green?style=plastic&logo=Keycloak)
-
-          ![Jira](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=#0052CC)
-          ![PagerDuty](https://img.shields.io/badge/PagerDuty-black?style=plastic&logo=pagerduty&logoColor=#06AC38)
-          ![OpsGenie](https://img.shields.io/badge/OpsGenie-blue?style=plastic&logo=opsgenie&logoColor=#172B4D)
-
-          Native Spanish speaking, learning Portuguese and Italian. English level C2 Business, with more than 10 years working with US, EU and APAC clients arround the world. 
-
   - title: Experience
     layout: list
     content:
       - layout: left
-        border: weak
+
         title: Botmaker
         sub_title: Principal Site Reliability Engineer (Java Performance Engineer)
         caption: |
@@ -119,7 +55,6 @@ content:
         description: |
         
       - layout: left
-        border: weak
         title: DfinSolutions (Techunting)
         sub_title: Senior Site Reliability Engineer
         caption: |
@@ -127,20 +62,10 @@ content:
         description: |
         
       - layout: left
-        border: weak
         title: The FreshMarket (GlobalLogic)
         sub_title: Principal Site Reliability Engineer
         caption: |
           October 2023 - Present
-        content: |
-          ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-          ![SNYK](https://img.shields.io/badge/snyk-5C2D91.svg?style=plastic)
-          ![AUTH0](https://img.shields.io/badge/Auth0-black?style=plastic&logo=Auth0)
-          - AWS Lambda
-          - AWS DynamoDB
-          - AWS RDS
-          - AWS SQS
-          
         description: | 
               - Standarize more than 30 customer's teams development experience on tools like OTLP, Artifactory, DevSecOps, Release and Quality Management.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
@@ -152,7 +77,6 @@ content:
               - Maintain, scale and governance across more than 300 production kubernetes clusters cross region and multicloud.
       
       - layout: left
-        border: weak
         title: Dynata Inc. (TechGenies)
         sub_title: Lead Site Reliability Engineer
         caption: October 2022 - October 2023
@@ -166,7 +90,6 @@ content:
               - Design and monitoring SDLC and Infrastructure with Datadog, OpsGenie, NewRelic
 
       - layout: left
-        border: weak
         title: Invenco by GVR (Svitla)
         sub_title: Senior Site Reliability Engineer
         caption: May 2021 - October 2022
@@ -182,7 +105,6 @@ content:
               - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
 
       - layout: left
-        border: weak
         title: Leonardo247 (TechGenies)
         sub_title: Senior Site Reliability Engineer
         caption: May 2021 - May 2021
@@ -197,7 +119,6 @@ content:
               - Design and monitoring SDLC and Infrastructure with Prometheus and Grafana and Datadog
       
       - layout: left
-        border: weak
         title: Marqeta Inc. (Taller Tech)
         sub_title: Senior Site Reliability Engineer
         caption: September 2020 - May 2021
@@ -209,7 +130,6 @@ content:
               - Reveal and Retrofit business needs for tracking business value. 
       
       - layout: left
-        border: weak
         title: Clara Analytics (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: December 2019 - August 2020
@@ -224,7 +144,6 @@ content:
               - PostgresSQL, Mongodb and DynamoDB.
                 
       - layout: left
-        border: weak
         title: Becton & Dickinson (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: December 2019 - August 2020
@@ -238,7 +157,6 @@ content:
               - Design, Implement and Maintain Auth0 workflows for authentication and authorization across all Products through SSO/OIDC
                 
       - layout: left
-        border: weak
         title: Walkers (Hexacta SA)
         sub_title: Lead Software Engineer
         caption: August 2018 - December 2019
@@ -249,7 +167,6 @@ content:
               - Redesign DB schemas and operations through event hubs  
       
       - layout: left
-        border: weak
         title: Coalfire (Hexacta SA)
         sub_title: Senior Software Engineer (.NET and Java)
         caption: August 2016 - August 2018
@@ -264,7 +181,6 @@ content:
               - Migration from Monolith to distributed architecture using Kubernetes on Azure AKS (self managed)
 
       - layout: left
-        border: weak
         title: SanCor (Hexacta SA)
         sub_title: .NET Software Engineer
         caption: August 2015 - April 2016
@@ -276,7 +192,6 @@ content:
               - Analyse and Optimize DB operations for low timing responses across tenants
       
       - layout: left
-        border: weak
         title: Plus Sistemas S.A
         sub_title: Java Software Engineer
         caption: May 2013 - July 2015
@@ -289,7 +204,6 @@ content:
               - Monitored database performance to keep workflows running smoothly.
 
       - layout: left
-        border: weak
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
         caption: September 2011 - March 2013
