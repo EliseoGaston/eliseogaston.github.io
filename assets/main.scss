@@ -5,6 +5,7 @@
 @import 'modern-resume-theme';
 
 .layout {
+  flex-direction: column;
   .details {
     justify-content: flex-start;
   }
