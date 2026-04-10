@@ -133,14 +133,14 @@ content:
         caption: |
           October 2023 - Present
         content: |
-          ![Jira](https://img.shields.io/badge/Jira-blue?style=plastic&logo=jira&logoColor=#0052CC)
-          ![PagerDuty](https://img.shields.io/badge/PagerDuty-black?style=plastic&logo=pagerduty&logoColor=#06AC38)
-          ![OpsGenie](https://img.shields.io/badge/OpsGenie-blue?style=plastic&logo=opsgenie&logoColor=#172B4D)
-
-          ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-          ![OKTA](https://img.shields.io/badge/OKTA-darkblue.svg?style=plastic&logo=okta&logoColor=white&color=darkblue)
+          ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+          ![SNYK](https://img.shields.io/badge/snyk-5C2D91.svg?style=plastic)
           ![AUTH0](https://img.shields.io/badge/Auth0-black?style=plastic&logo=Auth0)
-          ![KEYCLOAK](https://img.shields.io/badge/keycloak-green?style=plastic&logo=Keycloak)
+          - AWS Lambda
+          - AWS DynamoDB
+          - AWS RDS
+          - AWS SQS
+          
         description: | 
               - Standarize more than 30 customer's teams development experience on tools like OTLP, Artifactory, DevSecOps, Release and Quality Management.
               - Coordinate and Lead Platform Team to provide Best Practices DevOps, DevSecOps, Cloud Architectures and Compliance as a standard
