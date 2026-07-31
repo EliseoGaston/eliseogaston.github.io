@@ -98,47 +98,45 @@ content:
       - layout: left
         title: Hexacta
         sub_title: Senior Site Reliability Engineer
-        caption: Sep 2020 - Jun 2021
+        caption: Sep 2020 - Oct 2021
         description: |
-        
+          - Build an observability stack that helps for identify posible future errors and malfunctions
+          - Operate on infrastructure and platform to diagnose and profile application issues
+          - Manage Infrastructure’s health and reliability
+          - onCall rotation
+
       - layout: left
         title: Hexacta
-        sub_title: Principal Software Engineer / Cloud Engineer
+        sub_title: Site Reliability Engineer
         caption: Dec 2019 - Sep 2020
         description: |
-                
+          - 
+
       - layout: left
         title: Hexacta
         sub_title: Lead Software Engineer III
         caption: Aug 2018 - Dec 2019
         description: |
-              - Observe, Analyze and Review Infrastructure and Application for cost effective solutions. 
-              - Containarize applications using Docker and Kubernetes for modernization and Continous Delivery on Github Actions
-              - Design, Create and Implement 3-parties integrations with platform. (AWS Athena, AWS EMR, AWS QUICKSIGHTS)
-              - Monitoring, Design and Review transactional databases health and performance (PL-SQL and Postgres)
-              - Redesign DB schemas and operations through distributed events for better performance no NO-SQL database (MongoDB and DyanamoDB)
-              - Create and Mantain Infrastructure cost, monitoring and solutions using Datadog and AWS Cloudwatch
-              - Design, Implement and Maintain Auth0 workflows for authentication and authorization across all Products through SSO/OIDC
-                
+        
       - layout: left
         title: Hexacta
         sub_title: Lead Software Engineer
         caption: Sep 2017 - Aug 2018
         description: | 
-            
+        
       - layout: left
         title: Hexacta
         sub_title: Senior Software Engineer
         caption: August 2016 - Sep 2017
         description: |
-              - Cybersecurity. Healthcare, PCI DSS, FedRAMP, HIPPA
-              - Design, Scale and Maintain HA Public API with .NET and Java, (Monolithics and Serverless APIs)
-              - Retrieve business values and requirements from stackeholders and customers
-              - Performance testing and monitoring for backend applications performance
-              - Opeartate and Maintain Multi-schema MS SQL Server Cluster Database. Monitor and performance improvements on low-performant code
-              - Design, Operate, Build and Scale Mongodb cluster onpremise for lower and Atlas for Production. Snapshoting and Versioning system design architecture-
-              - Implement Event-driven architecture with Azure Service Bus, Azure Notification Hub and Azure webapps
-              - Migration from Monolith to distributed architecture using Kubernetes on Azure AKS (self managed)
+          - Cybersecurity. Healthcare, PCI DSS, FedRAMP, HIPPA
+          - Design, Scale and Maintain HA Public API with .NET and Java, (Monolithics and Serverless APIs)
+          - Retrieve business values and requirements from stackeholders and customers
+          - Performance testing and monitoring for backend applications performance
+          - Opeartate and Maintain Multi-schema MS SQL Server Cluster Database. Monitor and performance improvements on low-performant code
+          - Design, Operate, Build and Scale Mongodb cluster onpremise for lower and Atlas for Production. Snapshoting and Versioning system design architecture-
+          - Implement Event-driven architecture with Azure Service Bus, Azure Notification Hub and Azure webapps
+          - Migration from Monolith to distributed architecture using Kubernetes on Azure AKS (self managed)
 
       - layout: left
         title: Hexacta
