@@ -55,7 +55,18 @@ content:
         caption: |
           Oct 2025 - Present
         description: |
-            -
+          - Design, architect and operate AI applications from startup to production. 
+          - Operate SRE pilars and LLMs monitoring.
+          - Design and Implement AI Agents tools and orchestrators 
+          - Standarize more than 30 customer’s teams development with frameworks and tools like OTLP, Artifactory, DevSecOps, Release and Quality Management.
+          - Coordinate and Lead Platform Team to provide the best strategies for DevOps, DevSecOps, Cloud Architectures and Compliance such as SOC type II, PCI DSS, HiPPA and FedRAMP
+          - Design, run and maintain distributed and complex HA systems and meshed services with modern micro-services deployments
+          - Go, Java, .NET cross-products standarization, dependency management, artifactory, etc.
+          - Plan, Track and implement teams’ work using customer feedback and management prioritization
+          - Lead Infrastructure, Observability and Incident Management to give the customers the best cost efective solution for their business across all the teams.
+          - Standardize delivery teams for same quality and delivery on products.
+          - Maintain, scale and governance across more than 300 production kubernetes clusters cross region and multicloud.
+          - Ownership of Governance, Security and FinOps for customers’ cloud provider
         
       - layout: left
         title: DfinSolutions (Techunting)
@@ -99,17 +110,13 @@ content:
                 
       - layout: left
         title: Hexacta
-        sub_title: Lead Software Engineer II
+        sub_title: Lead Software Engineer
         caption: Sep 2017 - Aug 2018
         description: | 
-              - Migration of old .NET 2 and ASP applications to .NET CORE and Web Technologies
-              - Design, Create and Implement a new Standalone frontend architecture using angular
-              - Split into Microservices and background jobs old .NET monolithic to be used for frontend
-              - Redesign DB schemas and operations through event hubs  
-      
+            
       - layout: left
         title: Hexacta
-        sub_title: Senior Software Engineer II
+        sub_title: Senior Software Engineer
         caption: August 2016 - Sep 2017
         description: |
               - Cybersecurity. Healthcare, PCI DSS, FedRAMP, HIPPA
@@ -123,37 +130,37 @@ content:
 
       - layout: left
         title: Hexacta
-        sub_title: Software Engineer III
+        sub_title: Software Engineer II
         caption: Aug 2015 - Aug 2016
         description: | 
-              - Refresh old intranet site to a public hosted domain web application for insurance
-              - Maintain, modernize and stabilize .NET ASP.NET application on IIS.
-              - Maintain, patch and operate Servers for Database, IIS and FTP.
-              - Design ServiceBus integration systems for high availability and reliability event-driven transactional environment
-              - Analyse and Optimize DB operations for low timing responses across tenants
+            - Maintain, modernize and stabilize .NET ASP.NET application on IIS.
+            - Maintain, patch and operate Servers for Database, IIS and FTP.
+            - Design ServiceBus Architecture and integration systems for high availability and reliability event-driven transactional environment
+            - Analyse, profile and Optimize MS SQL Server DB operations for low timing responses across tenants from the applications performance analysis
+            - Solarwind and New Relic for monitoring metrics and usage of respurces. 
       
       - layout: left
         title: Plus Sistemas S.A
         sub_title: Software Engineer II
         caption: May 2013 - July 2015
         description: | 
-              - Troubleshot, monitor and profile performance issues for applications.
-              - Analyze, evaluate and develop web applications.
-              - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
-              - Web Application Development using JavaEE, Springboot, Maven
-              - Responsible for Continuos Integration using TFS, WebDeploy, IIS and Jenkins
-              - Monitored database performance to keep workflows running smoothly.
+            - Troubleshot, monitor and profile performance issues for applications.
+            - Analyze, evaluate and develop web applications.
+            - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
+            - Web Application Development using JavaEE, Springboot, Maven
+            - Responsible for Continuos Integration using TFS, WebDeploy, IIS and Jenkins
+            - Monitored database performance to keep workflows running smoothly.
 
       - layout: left
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
         caption: September 2011 - March 2013
         description: | 
-              - Administering and monitoring databases by proactively resolving issues and onprem servers.
-              - Develop and patch databases to perform best on customer's data.
-              - Implement procedures and Hardening to prevent data loss and maximize system availability.
-              - Process data integration and data resiliency and maintenance.
-              - Maintain database designs, schemas and data models. 
+            - Administering and monitoring databases by proactively resolving issues and onprem servers.
+            - Develop and patch databases to perform best on customer's data.
+            - Implement procedures and Hardening to prevent data loss and maximize system availability.
+            - Process data integration and data resiliency and maintenance.
+            - Maintain database designs, schemas and data models. 
 
   
   - title: Education
