@@ -74,15 +74,27 @@ content:
         caption: |
           Jan 2024 - Oct 2025
         description: |
-              - 
-        
+          - Ownership and design of Harness CI/CD to a mature and standarization delivery pipeline to work across all projects company wide.
+          - Design Metrics, business KPIs and SLIs/ SLOs to build a better reliable platform for customer facing demanding users.
+          - FinOps strategies for implementing budgeting and valuable improvements on infrastructure
+          - Design Incident Management process for multi region 24/7 oncall rotation and leading RCA analysis
+          - Design and Profile shared and reusable infrastructure for multiple projects on Azure
+                  
       - layout: left
         title: Gilbarco Veeder-Root
         sub_title: Lead Site Reliability Engineer
         caption: Oct 2021 - Jan 2024
         description: |
-            - 
-         
+          - Improve Dev experience and business KPIs
+          - Implement Internal Developer Portal for self serve services (backstage)
+          - Centralize Enterprise Artifactory solution and workflows acorss all products, to match security, quality and performance.
+          - Implement Reusable Terraform, Ansible and Go shared libraries for Teams to standarize application across products
+          - Coordinated efficient large-scale continuos delivery for IoT, Healthcare and PCI environments, witch involves more than 30 products.
+          - Design and automate self-healing systems using Kubernetes operators and Incident runbooks
+          - Go and Java cross-products standarization
+          - Design, Manage and Admin Incident Management System, Implement Alerting Systems (PagerDuty, Prometheus, Azure, Icinga)
+          - Design, Implement and Review SLAs, SLOs at Enterprise Level to match on each product the same quality
+                   
       - layout: left
         title: Hexacta
         sub_title: Senior Site Reliability Engineer
