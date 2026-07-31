@@ -35,11 +35,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  Manager SRE / Platform Engineering with over 15 years of experience architecting, securing, and scaling cloud-native microservices and high-availability (HA) distributed systems.
-  Proven track record of leading cross-functional teams across Platform Engineering, Incident Management, and Software Development to drive operational excellence, system reliability, and rapid software delivery.
-  I direct technical strategy, cloud operations, and release management while leveraging modern AI-driven tools to accelerate infrastructure automation, code generation, and intelligent incident response. 
-  My routine responsibilities include orchestrating Kubernetes clusters, streamlining enterprise CI/CD pipelines, and writing declarative Infrastructure as Code (IaC) with Terraform. 
-  I drive end-to-end observability by implementing proactive monitoring, alerting, and telemetry using Datadog, New Relic, Prometheus, and Grafana to optimize SLIs/SLOs and enable AI-enhanced root-cause analysis.
+  Manager SRE / Platform Engineering with over 15 years of experience architecting, securing, and scaling cloud-native microservices and high-availability (HA) distributed systems. Proven track record of leading cross-functional teams across Platform Engineering, Incident Management, and Software Development to drive operational excellence, system reliability, and rapid software delivery.  
+  
+  I direct technical strategy, cloud operations, and release management while leveraging modern AI-driven tools to accelerate infrastructure automation, code generation, and intelligent incident response. My routine responsibilities include orchestrating Kubernetes clusters, streamlining enterprise CI/CD pipelines, and writing declarative Infrastructure as Code (IaC) with Terraform. I drive end-to-end observability by implementing proactive monitoring, alerting, and telemetry using Datadog, New Relic, Prometheus, and Grafana to optimize SLIs/SLOs and enable AI-enhanced root-cause analysis.
+
   Balancing technical depth with strategic leadership, I bridge the gap between engineering and business priorities by standardizing enterprise-wide engineering methodologies—including DevSecOps practices, incident management frameworks, developer workflows, and service quality benchmarks (SLAs/SLOs). I actively govern automated release lifecycles and drive FinOps cost-optimization strategies. Backed by a strong foundation in polyglot backend engineering (.NET, Java, Go), I empower high-performing teams to ship secure, resilient software at scale.
 
 content:
