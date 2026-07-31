@@ -147,34 +147,34 @@ content:
         sub_title: Software Engineer II
         caption: Aug 2015 - Aug 2016
         description: | 
-            - Maintain, modernize and stabilize .NET ASP.NET application on IIS.
-            - Maintain, patch and operate Servers for Database, IIS and FTP.
-            - Design ServiceBus Architecture and integration systems for high availability and reliability event-driven transactional environment
-            - Analyse, profile and Optimize MS SQL Server DB operations for low timing responses across tenants from the applications performance analysis
-            - Solarwind and New Relic for monitoring metrics and usage of respurces. 
+          - Maintain, modernize and stabilize .NET ASP.NET application on IIS.
+          - Maintain, patch and operate Servers for Database, IIS and FTP.
+          - Design ServiceBus Architecture and integration systems for high availability and reliability event-driven transactional environment
+          - Analyse, profile and Optimize MS SQL Server DB operations for low timing responses across tenants from the applications performance analysis
+          - Solarwind and New Relic for monitoring metrics and usage of respurces. 
       
       - layout: left
         title: Plus Sistemas S.A
         sub_title: Software Engineer II
         caption: May 2013 - July 2015
         description: | 
-            - Troubleshot, monitor and profile performance issues for applications.
-            - Analyze, evaluate and develop web applications.
-            - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
-            - Web Application Development using JavaEE, Springboot, Maven
-            - Responsible for Continuos Integration using TFS, WebDeploy, IIS and Jenkins
-            - Monitored database performance to keep workflows running smoothly.
+          - Troubleshot, monitor and profile performance issues for applications.
+          - Analyze, evaluate and develop web applications.
+          - Software Engineer on .NET stack using MVC, WebAPI, SQL, Razor and web technologies.
+          - Web Application Development using JavaEE, Springboot, Maven
+          - Responsible for Continuos Integration using TFS, WebDeploy, IIS and Jenkins
+          - Monitored database performance to keep workflows running smoothly.
 
       - layout: left
         title: Ministerio Salud Provincia de Buenos Aires
         sub_title: Database Administrator
         caption: September 2011 - March 2013
         description: | 
-            - Administering and monitoring databases by proactively resolving issues and onprem servers.
-            - Develop and patch databases to perform best on customer's data.
-            - Implement procedures and Hardening to prevent data loss and maximize system availability.
-            - Process data integration and data resiliency and maintenance.
-            - Maintain database designs, schemas and data models. 
+          - Administering and monitoring databases by proactively resolving issues and onprem servers.
+          - Develop and patch databases to perform best on customer's data.
+          - Implement procedures and Hardening to prevent data loss and maximize system availability.
+          - Process data integration and data resiliency and maintenance.
+          - Maintain database designs, schemas and data models. 
 
   
   - title: Education
