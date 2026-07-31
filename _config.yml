@@ -110,24 +110,28 @@ content:
         sub_title: Site Reliability Engineer
         caption: Dec 2019 - Sep 2020
         description: |
-          - 
+          - Design processes, scalability and Cloud Architecture using AWS and Azure
+          - Implement AWS Observability and delivery for java and go microservices
+          - Plan, design and own alert management for a 24/7 issue management
+          - Orchestrate with software and platform teams infrastructure requirements and monitoring
 
       - layout: left
         title: Hexacta
-        sub_title: Lead Software Engineer III
-        caption: Aug 2018 - Dec 2019
-        description: |
-        
-      - layout: left
-        title: Hexacta
         sub_title: Lead Software Engineer
-        caption: Sep 2017 - Aug 2018
-        description: | 
-        
+        caption: Aug 2017 - Dec 2019
+        description: |
+          - Observe, Analyze and Review Infrastructure and Application for cost effective solutions.
+          - Containarize applications using Docker and Kubernetes for modernization and Continous Delivery on Github Actions
+          - Design, Create and Implement 3-parties integrations with platform. (AWS Athena, AWS EMR, AWS QUICKSIGHTS)
+          - Monitoring, Design and Review transactional databases health and performance (PL-SQL and Postgres)
+          - Redesign DB schemas and operations through distributed events for better performance no NO-SQL database (MongoDB and DyanamoDB)
+          - Create and Mantain Infrastructure cost, monitoring and solutions using Datadog and AWS Cloudwatch
+          - Design, Implement and Maintain Auth0 workflows for authentication and authorization across all Products through SSO/OIDC
+
       - layout: left
         title: Hexacta
         sub_title: Senior Software Engineer
-        caption: August 2016 - Sep 2017
+        caption: Aug 2016 - Sep 2017
         description: |
           - Cybersecurity. Healthcare, PCI DSS, FedRAMP, HIPPA
           - Design, Scale and Maintain HA Public API with .NET and Java, (Monolithics and Serverless APIs)
